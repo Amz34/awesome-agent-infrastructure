@@ -1,4 +1,5 @@
 build.log
+build.err
 run.txt
 *.txt
 !requirements.txt
