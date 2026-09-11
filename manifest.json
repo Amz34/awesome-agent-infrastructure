@@ -1,0 +1,2379 @@
+{
+  "Agent Frameworks & Orchestration": {
+    "blurb": "Runtimes and orchestration layers that plan, call tools and run multi-step work.",
+    "entries": [
+      {
+        "repo": "ruvnet/ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "stars": 72063,
+        "desc": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-lear",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "claude-code",
+          "swarm",
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "autonomous-agents",
+          "codex",
+          "mcp-server"
+        ]
+      },
+      {
+        "repo": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "stars": 58366,
+        "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "llms",
+          "aiagentframework"
+        ]
+      },
+      {
+        "repo": "CherryHQ/cherry-studio",
+        "url": "https://github.com/CherryHQ/cherry-studio",
+        "stars": 51672,
+        "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "claude-code",
+          "ai-agent",
+          "skills",
+          "codex",
+          "vibe-coding",
+          "deepseek",
+          "hermes-agent",
+          "agent-skills"
+        ]
+      },
+      {
+        "repo": "HKUDS/nanobot",
+        "url": "https://github.com/HKUDS/nanobot",
+        "stars": 48016,
+        "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "openclaw",
+          "agent-framework",
+          "chatbot",
+          "chatops",
+          "discord-bot",
+          "llm-agents"
+        ]
+      },
+      {
+        "repo": "zhayujie/CowAgent",
+        "url": "https://github.com/zhayujie/CowAgent",
+        "stars": 46899,
+        "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, ex",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "openai",
+          "ai",
+          "llm",
+          "ai-agent",
+          "deepseek",
+          "mcp",
+          "skills",
+          "claude"
+        ]
+      },
+      {
+        "repo": "Yeachan-Heo/oh-my-claudecode",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+        "stars": 39098,
+        "desc": "Teams-first Multi-agent orchestration for Claude Code",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agentic-coding",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "oh-my-opencode",
+          "opencode",
+          "vibe-coding",
+          "automation"
+        ]
+      },
+      {
+        "repo": "herdrdev/herdr",
+        "url": "https://github.com/herdrdev/herdr",
+        "stars": 37641,
+        "desc": "the runtime your coding agents live on",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agent",
+          "agent-orchestration",
+          "ai",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents"
+        ]
+      },
+      {
+        "repo": "Fosowl/agenticSeek",
+        "url": "https://github.com/Fosowl/agenticSeek",
+        "stars": 27192,
+        "desc": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai",
+          "deepseek-r1",
+          "llm",
+          "llm-agents",
+          "voice-assistant",
+          "autonomous-agents"
+        ]
+      },
+      {
+        "repo": "activepieces/activepieces",
+        "url": "https://github.com/activepieces/activepieces",
+        "stars": 24402,
+        "desc": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "workflow-automation",
+          "mcp",
+          "ai-agents",
+          "mcp-tools",
+          "mcps",
+          "workflows",
+          "no-code-automation",
+          "workflow"
+        ]
+      },
+      {
+        "repo": "vxcontrol/pentagi",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "stars": 22901,
+        "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "autonomous-agents",
+          "golang",
+          "graphql",
+          "multi-agent-system",
+          "penetration-testing-tools",
+          "react"
+        ]
+      },
+      {
+        "repo": "cft0808/edict",
+        "url": "https://github.com/cft0808/edict",
+        "stars": 16868,
+        "desc": "\ud83c\udfdb\ufe0f \u4e09\u7701\u516d\u90e8\u5236 \u00b7 OpenClaw Multi-Agent Orchestration System \u2014 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "ai-orchestration",
+          "dashboard",
+          "llm",
+          "multi-agent",
+          "openclaw",
+          "python",
+          "ai-agents",
+          "autonomous-agents"
+        ]
+      },
+      {
+        "repo": "opensandbox-group/OpenSandbox",
+        "url": "https://github.com/opensandbox-group/OpenSandbox",
+        "stars": 15121,
+        "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "ai-infra",
+          "kubernetes",
+          "sandbox",
+          "ai-agent"
+        ]
+      },
+      {
+        "repo": "microsoft/agent-framework",
+        "url": "https://github.com/microsoft/agent-framework",
+        "stars": 13474,
+        "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agent-framework",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "multi-agent",
+          "orchestration",
+          "sdk",
+          "workflows"
+        ]
+      },
+      {
+        "repo": "aden-hive/hive",
+        "url": "https://github.com/aden-hive/hive",
+        "stars": 11035,
+        "desc": "Multi-Agent Harness for Production AI",
+        "license": "-",
+        "pushed": "2026-09-05",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-skills",
+          "anthropic",
+          "automation",
+          "autonomous-agents",
+          "claude",
+          "human-in-the-loop"
+        ]
+      },
+      {
+        "repo": "omnigent-ai/omnigent",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "stars": 9849,
+        "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies a",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "developer-tools",
+          "llm",
+          "ml",
+          "python",
+          "agent-framework"
+        ]
+      }
+    ]
+  },
+  "Agent Memory & Context Engineering": {
+    "blurb": "Persistent memory, context budgeting and state stores for long-running agents.",
+    "entries": [
+      {
+        "repo": "thedotmack/claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "stars": 93663,
+        "desc": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "anthropic",
+          "artificial-intelligence",
+          "claude",
+          "claude-agent-sdk",
+          "claude-agents"
+        ]
+      },
+      {
+        "repo": "mem0ai/mem0",
+        "url": "https://github.com/mem0ai/mem0",
+        "stars": 65114,
+        "desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "chatgpt",
+          "llm",
+          "python",
+          "rag",
+          "long-term-memory",
+          "memory",
+          "memory-management"
+        ]
+      },
+      {
+        "repo": "volcengine/OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "stars": 36629,
+        "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "context-database",
+          "agentic-rag",
+          "agent-memory",
+          "self-evolving",
+          "agent-plugins",
+          "dsh-plugin"
+        ]
+      },
+      {
+        "repo": "topoteretes/cognee",
+        "url": "https://github.com/topoteretes/cognee",
+        "stars": 30639,
+        "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "cognitive-architecture",
+          "vector-database",
+          "ai-agents",
+          "graph-database",
+          "ai-memory",
+          "cognitive-memory",
+          "knowledge"
+        ]
+      },
+      {
+        "repo": "supermemoryai/supermemory",
+        "url": "https://github.com/supermemoryai/supermemory",
+        "stars": 29623,
+        "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "cloudflare-pages",
+          "cloudflare-workers",
+          "drizzle-orm",
+          "tailwindcss",
+          "typescript",
+          "cloudflare-kv",
+          "postgres",
+          "remix"
+        ]
+      },
+      {
+        "repo": "deepset-ai/haystack",
+        "url": "https://github.com/deepset-ai/haystack",
+        "stars": 26476,
+        "desc": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over r",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "semantic-search",
+          "information-retrieval",
+          "ai",
+          "python",
+          "large-language-models",
+          "generative-ai",
+          "llm",
+          "rag"
+        ]
+      },
+      {
+        "repo": "TencentCloud/TencentDB-Agent-Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "stars": 26353,
+        "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) ",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agent",
+          "llm",
+          "memory",
+          "openclaw-plugin",
+          "ai-agent",
+          "embedding",
+          "local-first",
+          "long-term-memory"
+        ]
+      },
+      {
+        "repo": "MemoriLabs/Memori",
+        "url": "https://github.com/MemoriLabs/Memori",
+        "stars": 16597,
+        "desc": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for e",
+        "license": "-",
+        "pushed": "2026-09-03",
+        "topics": [
+          "agent",
+          "ai",
+          "long-short-term-memory",
+          "memory",
+          "python",
+          "rag",
+          "state-management",
+          "memory-management"
+        ]
+      },
+      {
+        "repo": "NevaMind-AI/memU",
+        "url": "https://github.com/NevaMind-AI/memU",
+        "stars": 14404,
+        "desc": "Personal memory across agents",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "mcp",
+          "memory",
+          "sandbox",
+          "agent-memory",
+          "claude-skills",
+          "skills",
+          "openclaw",
+          "openclaw-skills"
+        ]
+      },
+      {
+        "repo": "EverMind-AI/EverOS",
+        "url": "https://github.com/EverMind-AI/EverOS",
+        "stars": 12878,
+        "desc": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+        "license": "-",
+        "pushed": "2026-09-09",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "chats",
+          "llm",
+          "long-term-memory",
+          "memory",
+          "memory-management",
+          "python3"
+        ]
+      },
+      {
+        "repo": "semantica-agi/semantica",
+        "url": "https://github.com/semantica-agi/semantica",
+        "stars": 12657,
+        "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "ai-governance",
+          "artificial-intelligence",
+          "context-engineering",
+          "context-graphs",
+          "decision-intelligence",
+          "explainable-ai",
+          "generative-ai"
+        ]
+      },
+      {
+        "repo": "MemTensor/MemOS",
+        "url": "https://github.com/MemTensor/MemOS",
+        "stars": 11286,
+        "desc": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+        "license": "-",
+        "pushed": "2026-09-09",
+        "topics": [
+          "agent",
+          "llm",
+          "memory",
+          "long-term-memory",
+          "memory-management",
+          "rag",
+          "skills",
+          "openclaw"
+        ]
+      },
+      {
+        "repo": "gsd-build/gsd-2",
+        "url": "https://github.com/gsd-build/gsd-2",
+        "stars": 7774,
+        "desc": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big ",
+        "license": "-",
+        "pushed": "2026-05-22",
+        "topics": [
+          "context-engineering",
+          "meta-prompting",
+          "spec-driven-development"
+        ]
+      },
+      {
+        "repo": "plastic-labs/honcho",
+        "url": "https://github.com/plastic-labs/honcho",
+        "stars": 7112,
+        "desc": "Memory library for building stateful agents",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "ai",
+          "llm",
+          "memory",
+          "agent-memory",
+          "ai-agents",
+          "ai-memory",
+          "context-engineering",
+          "continual-learning"
+        ]
+      },
+      {
+        "repo": "volcengine/MineContext",
+        "url": "https://github.com/volcengine/MineContext",
+        "stars": 5507,
+        "desc": "MineContext is your proactive context-aware AI partner\uff08Context-Engineering+ChatGPT Pulse\uff09",
+        "license": "-",
+        "pushed": "2026-05-07",
+        "topics": [
+          "agent",
+          "context-engineering",
+          "electron",
+          "embedding-models",
+          "memory",
+          "proactive-ai",
+          "python",
+          "python3"
+        ]
+      }
+    ]
+  },
+  "MCP & Tool Servers": {
+    "blurb": "Model Context Protocol servers, clients and tool bridges.",
+    "entries": [
+      {
+        "repo": "ChromeDevTools/chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "stars": 51636,
+        "desc": "Chrome DevTools for coding agents",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "mcp-server",
+          "puppeteer",
+          "chrome-devtools",
+          "browser",
+          "chrome",
+          "debugging",
+          "devtools",
+          "mcp"
+        ]
+      },
+      {
+        "repo": "danny-avila/LibreChat",
+        "url": "https://github.com/danny-avila/LibreChat",
+        "stars": 43026,
+        "desc": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "chatgpt",
+          "clone",
+          "chatgpt-clone",
+          "librechat",
+          "anthropic",
+          "claude",
+          "azure"
+        ]
+      },
+      {
+        "repo": "DeusData/codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "stars": 42941,
+        "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. ",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "claude-code",
+          "code-analysis",
+          "code-intelligence",
+          "developer-tools",
+          "knowledge-graph",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ]
+      },
+      {
+        "repo": "github/github-mcp-server",
+        "url": "https://github.com/github/github-mcp-server",
+        "stars": 32865,
+        "desc": "GitHub's official MCP Server",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "github",
+          "mcp",
+          "mcp-server"
+        ]
+      },
+      {
+        "repo": "oraios/serena",
+        "url": "https://github.com/oraios/serena",
+        "stars": 29174,
+        "desc": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "agent",
+          "ai",
+          "vibe-coding",
+          "mcp-server",
+          "ai-coding",
+          "language-server",
+          "programming",
+          "claude"
+        ]
+      },
+      {
+        "repo": "ahujasid/blender-mcp",
+        "url": "https://github.com/ahujasid/blender-mcp",
+        "stars": 28182,
+        "desc": "Community plugin to control Blender 3D with any LLM of your choice",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "3d-modeling",
+          "ai",
+          "blender",
+          "blender-addon",
+          "claude",
+          "generative-ai",
+          "llm",
+          "mcp"
+        ]
+      },
+      {
+        "repo": "PrefectHQ/fastmcp",
+        "url": "https://github.com/PrefectHQ/fastmcp",
+        "stars": 27614,
+        "desc": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "model-context-protocol",
+          "fastmcp",
+          "mcp",
+          "agents",
+          "llms",
+          "mcp-clients",
+          "mcp-servers",
+          "mcp-tools"
+        ]
+      },
+      {
+        "repo": "modelcontextprotocol/python-sdk",
+        "url": "https://github.com/modelcontextprotocol/python-sdk",
+        "stars": 24270,
+        "desc": "The official Python SDK for Model Context Protocol servers and clients",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "python",
+          "mcp",
+          "mcp-server",
+          "mcp-client"
+        ]
+      },
+      {
+        "repo": "pascalorg/editor",
+        "url": "https://github.com/pascalorg/editor",
+        "stars": 23317,
+        "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "3d",
+          "architecture",
+          "bim",
+          "cad",
+          "editor",
+          "floorplan",
+          "mcp",
+          "nextjs"
+        ]
+      },
+      {
+        "repo": "czlonkowski/n8n-mcp",
+        "url": "https://github.com/czlonkowski/n8n-mcp",
+        "stars": 22871,
+        "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "mcp",
+          "mcp-server",
+          "n8n",
+          "workflows"
+        ]
+      },
+      {
+        "repo": "microsoft/mcp-for-beginners",
+        "url": "https://github.com/microsoft/mcp-for-beginners",
+        "stars": 17196,
+        "desc": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and ",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "csharp",
+          "java",
+          "javascript",
+          "mcp",
+          "mcp-client",
+          "mcp-security",
+          "mcp-server",
+          "model"
+        ]
+      },
+      {
+        "repo": "budtmo/docker-android",
+        "url": "https://github.com/budtmo/docker-android",
+        "stars": 15842,
+        "desc": "Android in docker solution with noVNC supported, video recording and mcp server",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "docker-android",
+          "android",
+          "android-emulator",
+          "novnc",
+          "mobile-web",
+          "mobile-app",
+          "emulator",
+          "docker"
+        ]
+      },
+      {
+        "repo": "xpzouying/xiaohongshu-mcp",
+        "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+        "stars": 15741,
+        "desc": "MCP for xiaohongshu.com",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "mcp",
+          "mcp-server",
+          "xiaohongshu-mcp"
+        ]
+      },
+      {
+        "repo": "CoplayDev/unity-mcp",
+        "url": "https://github.com/CoplayDev/unity-mcp",
+        "stars": 14127,
+        "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+        "license": "-",
+        "pushed": "2026-09-05",
+        "topics": [
+          "ai",
+          "ai-integration",
+          "mcp",
+          "unity",
+          "anthropic",
+          "claude",
+          "copilot",
+          "cursor"
+        ]
+      },
+      {
+        "repo": "modelcontextprotocol/typescript-sdk",
+        "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+        "stars": 13371,
+        "desc": "The official TypeScript SDK for Model Context Protocol servers and clients",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "typescript",
+          "mcp",
+          "mcp-server",
+          "mcp-client"
+        ]
+      }
+    ]
+  },
+  "RAG & Vector Search": {
+    "blurb": "Retrieval stacks, embedding stores and document search engines.",
+    "entries": [
+      {
+        "repo": "infiniflow/ragflow",
+        "url": "https://github.com/infiniflow/ragflow",
+        "stars": 90519,
+        "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "context-engine",
+          "rag",
+          "retrieval-augmented-generation",
+          "agentic-ai",
+          "agentic-retrieval",
+          "agentic-search"
+        ]
+      },
+      {
+        "repo": "headroomlabs-ai/headroom",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "stars": 71498,
+        "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP se",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "agent",
+          "ai",
+          "anthropic",
+          "compression",
+          "context-engineering",
+          "context-window",
+          "fastapi",
+          "langchain"
+        ]
+      },
+      {
+        "repo": "pathwaycom/llm-app",
+        "url": "https://github.com/pathwaycom/llm-app",
+        "stars": 58937,
+        "desc": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, rea",
+        "license": "-",
+        "pushed": "2026-07-05",
+        "topics": [
+          "chatbot",
+          "hugging-face",
+          "llm",
+          "llm-local",
+          "llm-prompting",
+          "llm-security",
+          "llmops",
+          "pathway"
+        ]
+      },
+      {
+        "repo": "milvus-io/milvus",
+        "url": "https://github.com/milvus-io/milvus",
+        "stars": 46058,
+        "desc": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "anns",
+          "nearest-neighbor-search",
+          "faiss",
+          "vector-search",
+          "image-search",
+          "hnsw",
+          "vector-database",
+          "embedding-database"
+        ]
+      },
+      {
+        "repo": "HKUDS/LightRAG",
+        "url": "https://github.com/HKUDS/LightRAG",
+        "stars": 39572,
+        "desc": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "knowledge-graph",
+          "large-language-models",
+          "retrieval-augmented-generation",
+          "genai",
+          "graphrag",
+          "llm",
+          "rag",
+          "gpt"
+        ]
+      },
+      {
+        "repo": "The-Vibe-Company/quivr",
+        "url": "https://github.com/The-Vibe-Company/quivr",
+        "stars": 39507,
+        "desc": "Opiniated RAG for integrating GenAI in your apps \ud83e\udde0 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. ",
+        "license": "-",
+        "pushed": "2026-08-31",
+        "topics": [
+          "ai",
+          "llm",
+          "api",
+          "chatbot",
+          "chatgpt",
+          "database",
+          "docker",
+          "frontend"
+        ]
+      },
+      {
+        "repo": "patchy631/ai-engineering-hub",
+        "url": "https://github.com/patchy631/ai-engineering-hub",
+        "stars": 37480,
+        "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "agents",
+          "ai",
+          "llms",
+          "machine-learning",
+          "mcp",
+          "rag"
+        ]
+      },
+      {
+        "repo": "microsoft/graphrag",
+        "url": "https://github.com/microsoft/graphrag",
+        "stars": 35945,
+        "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "graphrag",
+          "rag",
+          "llm",
+          "llms",
+          "gpt",
+          "gpt-4",
+          "gpt4"
+        ]
+      },
+      {
+        "repo": "VectifyAI/PageIndex",
+        "url": "https://github.com/VectifyAI/PageIndex",
+        "stars": 35619,
+        "desc": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "context-engineering",
+          "llm",
+          "rag",
+          "reasoning"
+        ]
+      },
+      {
+        "repo": "qdrant/qdrant",
+        "url": "https://github.com/qdrant/qdrant",
+        "stars": 34495,
+        "desc": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "neural-network",
+          "search-engine",
+          "knn-algorithm",
+          "hnsw",
+          "vector-search",
+          "nearest-neighbor-search",
+          "image-search",
+          "embeddings-similarity"
+        ]
+      },
+      {
+        "repo": "NirDiamant/RAG_Techniques",
+        "url": "https://github.com/NirDiamant/RAG_Techniques",
+        "stars": 29439,
+        "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+        "license": "-",
+        "pushed": "2026-09-04",
+        "topics": [
+          "rag",
+          "tutorials",
+          "langchain",
+          "llama-index",
+          "llms",
+          "python",
+          "ai",
+          "llm"
+        ]
+      },
+      {
+        "repo": "Cinnamon/kotaemon",
+        "url": "https://github.com/Cinnamon/kotaemon",
+        "stars": 25746,
+        "desc": "An open-source RAG-based tool for chatting with your documents.",
+        "license": "-",
+        "pushed": "2026-07-14",
+        "topics": [
+          "chatbot",
+          "llms",
+          "open-source",
+          "rag"
+        ]
+      },
+      {
+        "repo": "HKUDS/RAG-Anything",
+        "url": "https://github.com/HKUDS/RAG-Anything",
+        "stars": 23293,
+        "desc": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "license": "-",
+        "pushed": "2026-09-02",
+        "topics": [
+          "multi-modal-rag",
+          "retrieval-augmented-generation"
+        ]
+      },
+      {
+        "repo": "Tencent/WeKnora",
+        "url": "https://github.com/Tencent/WeKnora",
+        "stars": 22243,
+        "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agent",
+          "agentic",
+          "ai",
+          "golang",
+          "llm",
+          "ollama",
+          "rag",
+          "chatbot"
+        ]
+      },
+      {
+        "repo": "RyanCodrai/turbovec",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "stars": 16886,
+        "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "license": "-",
+        "pushed": "2026-08-21",
+        "topics": [
+          "ann",
+          "avx512",
+          "embeddings",
+          "faiss",
+          "nearest-neighbor",
+          "neon",
+          "python",
+          "quantization"
+        ]
+      }
+    ]
+  },
+  "Local & On-Prem Inference": {
+    "blurb": "Run models on your own box: quantised runtimes and inference servers.",
+    "entries": [
+      {
+        "repo": "nomic-ai/gpt4all",
+        "url": "https://github.com/nomic-ai/gpt4all",
+        "stars": 77385,
+        "desc": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "license": "-",
+        "pushed": "2025-05-27",
+        "topics": [
+          "llm-inference",
+          "ai-chat"
+        ]
+      },
+      {
+        "repo": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "stars": 10832,
+        "desc": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "inference",
+          "deep-learning",
+          "openvino",
+          "ai",
+          "computer-vision",
+          "diffusion-models",
+          "generative-ai",
+          "llm-inference"
+        ]
+      },
+      {
+        "repo": "Tiiny-AI/PowerInfer",
+        "url": "https://github.com/Tiiny-AI/PowerInfer",
+        "stars": 9789,
+        "desc": "High-speed Large Language Model Serving for Local Deployment",
+        "license": "-",
+        "pushed": "2026-05-11",
+        "topics": [
+          "large-language-models",
+          "llama",
+          "llm",
+          "llm-inference",
+          "local-inference"
+        ]
+      },
+      {
+        "repo": "xorbitsai/inference",
+        "url": "https://github.com/xorbitsai/inference",
+        "stars": 9565,
+        "desc": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop \u2014 all through one unifi",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "pytorch",
+          "deployment",
+          "llm",
+          "artificial-intelligence",
+          "machine-learning",
+          "whisper",
+          "inference",
+          "openai-api"
+        ]
+      },
+      {
+        "repo": "LearningCircuit/local-deep-research",
+        "url": "https://github.com/LearningCircuit/local-deep-research",
+        "stars": 9072,
+        "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Every",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "academia",
+          "arxiv",
+          "brave",
+          "deep-research",
+          "local",
+          "local-llm",
+          "mistral",
+          "pubmed"
+        ]
+      },
+      {
+        "repo": "bentoml/BentoML",
+        "url": "https://github.com/bentoml/BentoML",
+        "stars": 8834,
+        "desc": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "model-serving",
+          "mlops",
+          "llmops",
+          "generative-ai",
+          "llm-inference",
+          "model-inference-service",
+          "inference-platform",
+          "deep-learning"
+        ]
+      },
+      {
+        "repo": "ai-dynamo/dynamo",
+        "url": "https://github.com/ai-dynamo/dynamo",
+        "stars": 8027,
+        "desc": "A Datacenter Scale Distributed Inference Serving Framework",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "diffusion",
+          "disaggregated-serving",
+          "kubernetes",
+          "llm-inference",
+          "omni",
+          "routing-engine",
+          "rust",
+          "sglang"
+        ]
+      },
+      {
+        "repo": "FareedKhan-dev/kimi-k3-in-c",
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 7550,
+        "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention"
+        ]
+      },
+      {
+        "repo": "drumih/turbo-fieldfare",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "stars": 6700,
+        "desc": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "gemma",
+          "gpgpu",
+          "llm",
+          "local-ai",
+          "macos",
+          "metal",
+          "on-device-ai",
+          "swift"
+        ]
+      },
+      {
+        "repo": "Osmantic/ODS",
+        "url": "https://github.com/Osmantic/ODS",
+        "stars": 6387,
+        "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "self-hosted",
+          "amd",
+          "comfyui",
+          "docker",
+          "llama-cpp",
+          "local-ai"
+        ]
+      },
+      {
+        "repo": "cactus-compute/cactus",
+        "url": "https://github.com/cactus-compute/cactus",
+        "stars": 6000,
+        "desc": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "android",
+          "framework",
+          "ios",
+          "llamacpp",
+          "llm",
+          "llm-inference",
+          "llms",
+          "transformer"
+        ]
+      },
+      {
+        "repo": "kserve/kserve",
+        "url": "https://github.com/kserve/kserve",
+        "stars": 5872,
+        "desc": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "knative",
+          "machine-learning",
+          "model-interpretability",
+          "model-serving",
+          "istio",
+          "kubeflow",
+          "artificial-intelligence",
+          "tensorflow"
+        ]
+      },
+      {
+        "repo": "Michael-A-Kuykendall/shimmy",
+        "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+        "stars": 5864,
+        "desc": "\u26a1 Pure-Rust WebGPU inference engine \u2014 OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.",
+        "license": "-",
+        "pushed": "2026-08-30",
+        "topics": [
+          "llama",
+          "llamacpp",
+          "llm-inference",
+          "ollama-api",
+          "command-line-tool",
+          "gguf",
+          "inference-server",
+          "local-ai"
+        ]
+      },
+      {
+        "repo": "lemonade-sdk/lemonade",
+        "url": "https://github.com/lemonade-sdk/lemonade",
+        "stars": 5688,
+        "desc": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "amd",
+          "llama",
+          "llm",
+          "llm-inference",
+          "local-server",
+          "mistral",
+          "npu",
+          "onnxruntime"
+        ]
+      },
+      {
+        "repo": "gpustack/gpustack",
+        "url": "https://github.com/gpustack/gpustack",
+        "stars": 5672,
+        "desc": "A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "ascend",
+          "cuda",
+          "deepseek",
+          "distributed-inference",
+          "genai",
+          "inference",
+          "llama",
+          "llm"
+        ]
+      }
+    ]
+  },
+  "LLM Ops: Evals & Observability": {
+    "blurb": "Tests, evals, tracing and prompt tooling that keep quality measurable.",
+    "entries": [
+      {
+        "repo": "langfuse/langfuse",
+        "url": "https://github.com/langfuse/langfuse",
+        "stars": 34474,
+        "desc": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "analytics",
+          "llm",
+          "llmops",
+          "large-language-models",
+          "openai",
+          "self-hosted",
+          "ycombinator",
+          "monitoring"
+        ]
+      },
+      {
+        "repo": "comet-ml/opik",
+        "url": "https://github.com/comet-ml/opik",
+        "stars": 21932,
+        "desc": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "open-source",
+          "langchain",
+          "openai",
+          "playground",
+          "prompt-engineering",
+          "llama-index",
+          "llm",
+          "llm-evaluation"
+        ]
+      },
+      {
+        "repo": "confident-ai/deepeval",
+        "url": "https://github.com/confident-ai/deepeval",
+        "stars": 18219,
+        "desc": "The LLM Evaluation Framework",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "evaluation-metrics",
+          "evaluation-framework",
+          "llm-evaluation",
+          "llm-evaluation-framework",
+          "llm-evaluation-metrics",
+          "python"
+        ]
+      },
+      {
+        "repo": "raga-ai-hub/RagaAI-Catalyst",
+        "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+        "stars": 16160,
+        "desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboa",
+        "license": "-",
+        "pushed": "2026-02-11",
+        "topics": [
+          "agentneo",
+          "agents",
+          "ai-performance-optimization",
+          "llm-testing",
+          "llmops",
+          "agentic-ai-development",
+          "ai-agent-monitoring",
+          "ai-application-debugging"
+        ]
+      },
+      {
+        "repo": "vibrantlabsai/ragas",
+        "url": "https://github.com/vibrantlabsai/ragas",
+        "stars": 15705,
+        "desc": "Supercharge Your LLM Application Evaluations \ud83d\ude80",
+        "license": "-",
+        "pushed": "2026-02-24",
+        "topics": [
+          "llm",
+          "llmops",
+          "evaluation"
+        ]
+      },
+      {
+        "repo": "Arize-ai/phoenix",
+        "url": "https://github.com/Arize-ai/phoenix",
+        "stars": 11416,
+        "desc": "AI Observability & Evaluation",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "llmops",
+          "ai-monitoring",
+          "ai-observability",
+          "llm-eval",
+          "aiengineering",
+          "datasets",
+          "agents",
+          "llms"
+        ]
+      },
+      {
+        "repo": "evidentlyai/evidently",
+        "url": "https://github.com/evidentlyai/evidently",
+        "stars": 7907,
+        "desc": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "data-drift",
+          "jupyter-notebook",
+          "pandas-dataframe",
+          "machine-learning",
+          "model-monitoring",
+          "html-report",
+          "mlops",
+          "data-science"
+        ]
+      },
+      {
+        "repo": "traceloop/openllmetry",
+        "url": "https://github.com/traceloop/openllmetry",
+        "stars": 7428,
+        "desc": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+        "license": "-",
+        "pushed": "2026-08-10",
+        "topics": [
+          "llmops",
+          "observability",
+          "open-telemetry",
+          "metrics",
+          "monitoring",
+          "opentelemetry",
+          "datascience",
+          "ml"
+        ]
+      },
+      {
+        "repo": "jeinlee1991/chinese-llm-benchmark",
+        "url": "https://github.com/jeinlee1991/chinese-llm-benchmark",
+        "stars": 6431,
+        "desc": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE-5.0\u3001qwen3.6-max\u3001qwen3.6-plus\u3001\u767e\u5ddd\u3001\u8baf\u98de\u661f\u706b\u3001\u5546\u6c64senseChat\u7b49\u5546\u7528\u6a21\u578b\uff0c \u4ee5\u53cast",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "agentic-ai",
+          "artificial-intelligence",
+          "llm-agent",
+          "llm-evaluation"
+        ]
+      },
+      {
+        "repo": "Helicone/helicone",
+        "url": "https://github.com/Helicone/helicone",
+        "stars": 6146,
+        "desc": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
+        "license": "-",
+        "pushed": "2026-08-31",
+        "topics": [
+          "large-language-models",
+          "prompt-engineering",
+          "agent-monitoring",
+          "analytics",
+          "evaluation",
+          "gpt",
+          "langchain",
+          "llama-index"
+        ]
+      },
+      {
+        "repo": "Giskard-AI/giskard-oss",
+        "url": "https://github.com/Giskard-AI/giskard-oss",
+        "stars": 5810,
+        "desc": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+        "license": "-",
+        "pushed": "2026-09-09",
+        "topics": [
+          "mlops",
+          "ml-validation",
+          "ml-testing",
+          "ai-testing",
+          "llmops",
+          "responsible-ai",
+          "fairness-ai",
+          "trustworthy-ai"
+        ]
+      },
+      {
+        "repo": "latitude-dev/latitude-llm",
+        "url": "https://github.com/latitude-dev/latitude-llm",
+        "stars": 4632,
+        "desc": "Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "llm-observability",
+          "agent-monitoring",
+          "agent-observability",
+          "ai-error-monitor",
+          "ai-monitoring",
+          "ai-observability",
+          "llm-error-tracing",
+          "llm-tools"
+        ]
+      },
+      {
+        "repo": "pydantic/logfire",
+        "url": "https://github.com/pydantic/logfire",
+        "stars": 4471,
+        "desc": "AI observability platform for production LLM and agent systems.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "fastapi",
+          "logging",
+          "observability",
+          "openai",
+          "opentelemetry",
+          "pydantic",
+          "python",
+          "trace"
+        ]
+      },
+      {
+        "repo": "EvolvingLMMs-Lab/lmms-eval",
+        "url": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
+        "stars": 4399,
+        "desc": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "agi",
+          "evaluation",
+          "large-language-models",
+          "multimodal",
+          "audio-evaluation",
+          "benchmark",
+          "llm-evaluation",
+          "video-understanding"
+        ]
+      },
+      {
+        "repo": "truera/trulens",
+        "url": "https://github.com/truera/trulens",
+        "stars": 3547,
+        "desc": "Evaluation and Tracking for LLM Experiments and AI Agents",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "machine-learning",
+          "neural-networks",
+          "explainable-ml",
+          "llmops",
+          "ai-monitoring",
+          "ai-observability",
+          "evals",
+          "llm-evaluation"
+        ]
+      }
+    ]
+  },
+  "Reliability & Cost Control": {
+    "blurb": "Watchdogs, alerting, uptime checks and budget guards for unattended workloads.",
+    "entries": [
+      {
+        "repo": "louislam/uptime-kuma",
+        "url": "https://github.com/louislam/uptime-kuma",
+        "stars": 91257,
+        "desc": "A fancy self-hosted monitoring tool",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "uptime",
+          "monitoring",
+          "docker",
+          "selfhosted",
+          "self-hosted",
+          "single-page-app",
+          "webapp",
+          "responsive"
+        ]
+      },
+      {
+        "repo": "prometheus/prometheus",
+        "url": "https://github.com/prometheus/prometheus",
+        "stars": 66042,
+        "desc": "The Prometheus monitoring system and time series database.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "monitoring",
+          "metrics",
+          "alerting",
+          "graphing",
+          "time-series",
+          "prometheus",
+          "hacktoberfest"
+        ]
+      },
+      {
+        "repo": "alibaba/Sentinel",
+        "url": "https://github.com/alibaba/Sentinel",
+        "stars": 23146,
+        "desc": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (\u9762\u5411\u4e91\u539f\u751f\u5fae\u670d\u52a1\u7684\u9ad8\u53ef\u7528\u6d41\u63a7\u9632\u62a4\u7ec4\u4ef6)",
+        "license": "-",
+        "pushed": "2026-05-27",
+        "topics": [
+          "alibaba",
+          "java",
+          "microservice",
+          "circuit-breaker",
+          "rate-limiting",
+          "reliability",
+          "cloud-native",
+          "microservices"
+        ]
+      },
+      {
+        "repo": "ccfos/nightingale",
+        "url": "https://github.com/ccfos/nightingale",
+        "stars": 13285,
+        "desc": "Nightingale is to monitoring and alerting what Grafana is to visualization.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "monitoring",
+          "time-series",
+          "nightingale",
+          "tsdb",
+          "open-falcon",
+          "alerting",
+          "metrics",
+          "observability"
+        ]
+      },
+      {
+        "repo": "keephq/keep",
+        "url": "https://github.com/keephq/keep",
+        "stars": 12308,
+        "desc": "The open-source AIOps and alert management platform",
+        "license": "-",
+        "pushed": "2026-09-09",
+        "topics": [
+          "alarm",
+          "alarms",
+          "alerting",
+          "alerts",
+          "monitoring",
+          "monitoring-tool",
+          "python",
+          "python3"
+        ]
+      },
+      {
+        "repo": "TwiN/gatus",
+        "url": "https://github.com/TwiN/gatus",
+        "stars": 12052,
+        "desc": "Automated developer-oriented status page with alerting and incident support",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "golang",
+          "go",
+          "health",
+          "monitor",
+          "monitoring",
+          "dashboard",
+          "alerting",
+          "slack"
+        ]
+      },
+      {
+        "repo": "bluewave-labs/Checkmate",
+        "url": "https://github.com/bluewave-labs/Checkmate",
+        "stars": 10805,
+        "desc": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "server-monitoring",
+          "uptime",
+          "uptime-checker",
+          "uptime-monitor",
+          "uptime-monitoring",
+          "uptime-status",
+          "uptimerobot",
+          "incident"
+        ]
+      },
+      {
+        "repo": "openstatusHQ/openstatus",
+        "url": "https://github.com/openstatusHQ/openstatus",
+        "stars": 9102,
+        "desc": "\ud83e\uded6 Status page with uptime monitoring & API monitoring as code \ud83e\uded6",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "observability",
+          "open-source",
+          "status-page",
+          "turso",
+          "tinybird",
+          "monitoring",
+          "on-call",
+          "synthetic-monitoring"
+        ]
+      },
+      {
+        "repo": "zabbix/zabbix",
+        "url": "https://github.com/zabbix/zabbix",
+        "stars": 6365,
+        "desc": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "zabbix",
+          "monitoring",
+          "alerting",
+          "metrics",
+          "network-monitoring",
+          "application-monitoring"
+        ]
+      },
+      {
+        "repo": "animir/node-rate-limiter-flexible",
+        "url": "https://github.com/animir/node-rate-limiter-flexible",
+        "stars": 3585,
+        "desc": "Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.",
+        "license": "-",
+        "pushed": "2026-06-08",
+        "topics": [
+          "security",
+          "limit",
+          "ratelimter",
+          "bruteforce",
+          "throttle",
+          "koa",
+          "express",
+          "hapi"
+        ]
+      },
+      {
+        "repo": "express-rate-limit/express-rate-limit",
+        "url": "https://github.com/express-rate-limit/express-rate-limit",
+        "stars": 3305,
+        "desc": "Basic rate-limiting middleware for the Express web server",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "api",
+          "rate-limiting",
+          "rest-api",
+          "security",
+          "web",
+          "express",
+          "nodejs",
+          "rate-limiter"
+        ]
+      },
+      {
+        "repo": "robusta-dev/robusta",
+        "url": "https://github.com/robusta-dev/robusta",
+        "stars": 3092,
+        "desc": "Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "kubernetes",
+          "monitoring",
+          "notifications",
+          "devops",
+          "prometheus",
+          "dashboard",
+          "grafana",
+          "alerting"
+        ]
+      },
+      {
+        "repo": "alibaba/sentinel-golang",
+        "url": "https://github.com/alibaba/sentinel-golang",
+        "stars": 2963,
+        "desc": "Sentinel Go enables reliability and resiliency for Go microservices",
+        "license": "-",
+        "pushed": "2026-07-02",
+        "topics": [
+          "cloud-native",
+          "microservice",
+          "resiliency",
+          "rate-limiting",
+          "go",
+          "golang",
+          "microservices",
+          "middleware"
+        ]
+      },
+      {
+        "repo": "cstate/cstate",
+        "url": "https://github.com/cstate/cstate",
+        "stars": 2893,
+        "desc": "\ud83d\udd25 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges",
+        "license": "-",
+        "pushed": "2026-08-27",
+        "topics": [
+          "hugo",
+          "status",
+          "statuspage",
+          "ie11",
+          "github-pages",
+          "serverless",
+          "no-javascript",
+          "gh-pages"
+        ]
+      },
+      {
+        "repo": "bucket4j/bucket4j",
+        "url": "https://github.com/bucket4j/bucket4j",
+        "stars": 2800,
+        "desc": "Java rate limiting library based on token-bucket algorithm.",
+        "license": "-",
+        "pushed": "2026-08-28",
+        "topics": [
+          "token-bucket",
+          "hazelcast",
+          "rate-limiter",
+          "apache-ignite",
+          "jcache",
+          "infinispan",
+          "rate-limit",
+          "rate-limiting"
+        ]
+      }
+    ]
+  },
+  "Free-Tier & Low-Cost Infrastructure": {
+    "blurb": "Lightweight tooling that fits small 2 vCPU / 12 GB always-free boxes.",
+    "entries": [
+      {
+        "repo": "immich-app/immich",
+        "url": "https://github.com/immich-app/immich",
+        "stars": 113825,
+        "desc": "High performance self-hosted photo and video management solution.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "backup-tool",
+          "mobile-app",
+          "photo-gallery",
+          "photos",
+          "self-hosted",
+          "videos",
+          "flutter",
+          "nestjs"
+        ]
+      },
+      {
+        "repo": "nocodb/nocodb",
+        "url": "https://github.com/nocodb/nocodb",
+        "stars": 64928,
+        "desc": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 A Free & Self-hostable Airtable Alternative",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "automatic-api",
+          "airtable",
+          "no-code",
+          "no-code-database",
+          "postgresql",
+          "sqlite",
+          "airtable-alternative",
+          "low-code"
+        ]
+      },
+      {
+        "repo": "usememos/memos",
+        "url": "https://github.com/usememos/memos",
+        "stars": 62912,
+        "desc": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "react",
+          "go",
+          "sqlite",
+          "markdown",
+          "self-hosted",
+          "note-taking",
+          "memo",
+          "docker"
+        ]
+      },
+      {
+        "repo": "coollabsio/coolify",
+        "url": "https://github.com/coollabsio/coolify",
+        "stars": 61675,
+        "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services ",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "nodejs",
+          "mysql",
+          "php",
+          "docker",
+          "self-hosting",
+          "redis",
+          "svelte",
+          "databases"
+        ]
+      },
+      {
+        "repo": "go-gitea/gitea",
+        "url": "https://github.com/go-gitea/gitea",
+        "stars": 57950,
+        "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "gitea",
+          "golang",
+          "devops",
+          "git",
+          "gitlab",
+          "github",
+          "go",
+          "hacktoberfest"
+        ]
+      },
+      {
+        "repo": "siyuan-note/siyuan",
+        "url": "https://github.com/siyuan-note/siyuan",
+        "stars": 46300,
+        "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together \u5f00\u6e90\u3001\u9690\u79c1\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u77e5\u8bc6\u5de5\u4f5c\u7a7a\u95f4\uff0c\u8ba9\u4eba\u4e0e\u667a\u80fd\u4f53\u5728\u6b64\u534f\u4f5c",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "note-taking",
+          "local-first",
+          "knowledge-base",
+          "markdown",
+          "self-hosted",
+          "siyuan",
+          "ai-agent",
+          "mcp"
+        ]
+      },
+      {
+        "repo": "khoj-ai/khoj",
+        "url": "https://github.com/khoj-ai/khoj",
+        "stars": 37271,
+        "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your pers",
+        "license": "-",
+        "pushed": "2026-08-02",
+        "topics": [
+          "semantic-search",
+          "emacs",
+          "obsidian-md",
+          "chat",
+          "chatgpt",
+          "ai",
+          "llm",
+          "productivity"
+        ]
+      },
+      {
+        "repo": "glanceapp/glance",
+        "url": "https://github.com/glanceapp/glance",
+        "stars": 36981,
+        "desc": "A self-hosted dashboard that puts all your feeds in one place",
+        "license": "-",
+        "pushed": "2026-09-05",
+        "topics": [
+          "dashboard",
+          "homepage",
+          "rss",
+          "self-hosted",
+          "docker",
+          "feed-reader",
+          "aggregator",
+          "startpage"
+        ]
+      },
+      {
+        "repo": "dokku/dokku",
+        "url": "https://github.com/dokku/dokku",
+        "stars": 32128,
+        "desc": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "dokku",
+          "paas",
+          "heroku",
+          "docker",
+          "kubernetes",
+          "nomad",
+          "containers",
+          "buildpack"
+        ]
+      },
+      {
+        "repo": "plausible/analytics",
+        "url": "https://github.com/plausible/analytics",
+        "stars": 29023,
+        "desc": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "analytics",
+          "privacy",
+          "elixir",
+          "phoenix",
+          "postgresql",
+          "tailwindcss",
+          "clickhouse",
+          "plausible-analytics"
+        ]
+      },
+      {
+        "repo": "karakeep-app/karakeep",
+        "url": "https://github.com/karakeep-app/karakeep",
+        "stars": 28959,
+        "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+        "license": "-",
+        "pushed": "2026-08-31",
+        "topics": [
+          "bookmarks",
+          "bookmarks-manager",
+          "nextjs",
+          "react-native",
+          "read-it-later",
+          "bookmark-manager",
+          "self-hosted"
+        ]
+      },
+      {
+        "repo": "ArchiveBox/ArchiveBox",
+        "url": "https://github.com/ArchiveBox/ArchiveBox",
+        "stars": 28268,
+        "desc": "\ud83d\uddc3 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+        "license": "-",
+        "pushed": "2026-09-07",
+        "topics": [
+          "pocket",
+          "wget",
+          "browser-bookmarks",
+          "pinboard",
+          "chromium",
+          "firefox",
+          "backups",
+          "rss"
+        ]
+      },
+      {
+        "repo": "lissy93/dashy",
+        "url": "https://github.com/lissy93/dashy",
+        "stars": 26421,
+        "desc": "\ud83d\ude80 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "dashboard",
+          "self-hosted",
+          "vue",
+          "docker",
+          "startpage",
+          "homepage",
+          "homelab",
+          "nodejs"
+        ]
+      },
+      {
+        "repo": "henrygd/beszel",
+        "url": "https://github.com/henrygd/beszel",
+        "stars": 25292,
+        "desc": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "homelab",
+          "monitoring",
+          "self-hosted"
+        ]
+      },
+      {
+        "repo": "n8n-io/self-hosted-ai-starter-kit",
+        "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+        "stars": 15242,
+        "desc": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted ",
+        "license": "-",
+        "pushed": "2026-07-23",
+        "topics": [
+          "ai",
+          "low-code",
+          "self-hosted",
+          "starter-kit",
+          "ai-agents"
+        ]
+      }
+    ]
+  },
+  "Learning & Reference": {
+    "blurb": "Curated lists, books and courses worth reading before you build.",
+    "entries": [
+      {
+        "repo": "sindresorhus/awesome",
+        "url": "https://github.com/sindresorhus/awesome",
+        "stars": 505006,
+        "desc": "\ud83d\ude0e Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+        "license": "-",
+        "pushed": "2026-09-02",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "unicorns",
+          "lists",
+          "resources"
+        ]
+      },
+      {
+        "repo": "vinta/awesome-python",
+        "url": "https://github.com/vinta/awesome-python",
+        "stars": 319911,
+        "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+        "license": "-",
+        "pushed": "2026-09-01",
+        "topics": [
+          "awesome",
+          "python",
+          "python-frameworks",
+          "python-libraries",
+          "python-tools",
+          "awesome-list"
+        ]
+      },
+      {
+        "repo": "awesome-selfhosted/awesome-selfhosted",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "stars": 318485,
+        "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "selfhosted",
+          "awesome",
+          "awesome-list",
+          "privacy",
+          "hosting",
+          "cloud",
+          "self-hosted",
+          "free-software"
+        ]
+      },
+      {
+        "repo": "avelino/awesome-go",
+        "url": "https://github.com/avelino/awesome-go",
+        "stars": 183797,
+        "desc": "A curated list of awesome Go frameworks, libraries and software",
+        "license": "-",
+        "pushed": "2026-09-10",
+        "topics": [
+          "golang",
+          "golang-library",
+          "go",
+          "awesome",
+          "awesome-list",
+          "hacktoberfest"
+        ]
+      },
+      {
+        "repo": "f/prompts.chat",
+        "url": "https://github.com/f/prompts.chat",
+        "stars": 169948,
+        "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+        "license": "-",
+        "pushed": "2026-09-09",
+        "topics": [
+          "chatgpt",
+          "ai",
+          "artificial-intelligence",
+          "awesome-list",
+          "chatgpt-prompts",
+          "claude",
+          "gemini",
+          "gpt"
+        ]
+      },
+      {
+        "repo": "Hack-with-Github/Awesome-Hacking",
+        "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+        "stars": 120139,
+        "desc": "A collection of various awesome lists for hackers, pentesters and security researchers",
+        "license": "-",
+        "pushed": "2026-07-26",
+        "topics": [
+          "hacking",
+          "security",
+          "bug-bounty",
+          "awesome",
+          "android",
+          "fuzzing",
+          "penetration-testing",
+          "pentesting-windows"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-design-md",
+        "url": "https://github.com/VoltAgent/awesome-design-md",
+        "stars": 115321,
+        "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "license": "-",
+        "pushed": "2026-07-31",
+        "topics": [
+          "awesome-list",
+          "design-md",
+          "design-system",
+          "google-stitch",
+          "landing-page",
+          "design-tokens",
+          "figma",
+          "vibe-coding"
+        ]
+      },
+      {
+        "repo": "jaywcjlove/awesome-mac",
+        "url": "https://github.com/jaywcjlove/awesome-mac",
+        "stars": 113549,
+        "desc": "\uf8ff This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+        "license": "-",
+        "pushed": "2026-09-11",
+        "topics": [
+          "macos",
+          "software",
+          "mac",
+          "mac-osx",
+          "awesome",
+          "macosx",
+          "awesome-list",
+          "list"
+        ]
+      },
+      {
+        "repo": "punkpeye/awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "stars": 94795,
+        "desc": "A collection of MCP servers.",
+        "license": "-",
+        "pushed": "2026-09-08",
+        "topics": [
+          "ai",
+          "mcp"
+        ]
+      },
+      {
+        "repo": "MunGell/awesome-for-beginners",
+        "url": "https://github.com/MunGell/awesome-for-beginners",
+        "stars": 89149,
+        "desc": "A list of awesome beginners-friendly projects.",
+        "license": "-",
+        "pushed": "2026-07-25",
+        "topics": [
+          "awesome",
+          "beginner-project",
+          "awesome-list",
+          "list",
+          "beginners-friendly"
+        ]
+      },
+      {
+        "repo": "enaqx/awesome-react",
+        "url": "https://github.com/enaqx/awesome-react",
+        "stars": 74558,
+        "desc": "A collection of awesome things regarding React ecosystem",
+        "license": "-",
+        "pushed": "2026-09-04",
+        "topics": [
+          "react",
+          "react-native",
+          "tutorial",
+          "samples",
+          "awesome-list",
+          "react-tutorial",
+          "react-apps",
+          "awesome"
+        ]
+      },
+      {
+        "repo": "binhnguyennus/awesome-scalability",
+        "url": "https://github.com/binhnguyennus/awesome-scalability",
+        "stars": 73854,
+        "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+        "license": "-",
+        "pushed": "2026-01-04",
+        "topics": [
+          "system-design",
+          "backend",
+          "scalability",
+          "interview",
+          "architecture",
+          "devops",
+          "design-patterns",
+          "interview-questions"
+        ]
+      },
+      {
+        "repo": "fffaraz/awesome-cpp",
+        "url": "https://github.com/fffaraz/awesome-cpp",
+        "stars": 73228,
+        "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+        "license": "-",
+        "pushed": "2026-09-05",
+        "topics": [
+          "cpp",
+          "cppcon",
+          "awesome",
+          "programming-tutorial",
+          "libraries",
+          "c-plus-plus",
+          "c",
+          "cpp-library"
+        ]
+      },
+      {
+        "repo": "sindresorhus/awesome-nodejs",
+        "url": "https://github.com/sindresorhus/awesome-nodejs",
+        "stars": 66773,
+        "desc": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
+        "license": "-",
+        "pushed": "2026-09-02",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "nodejs",
+          "javascript",
+          "list",
+          "node"
+        ]
+      },
+      {
+        "repo": "Solido/awesome-flutter",
+        "url": "https://github.com/Solido/awesome-flutter",
+        "stars": 61154,
+        "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+        "license": "-",
+        "pushed": "2026-09-03",
+        "topics": [
+          "flutter",
+          "awesome-list",
+          "dartlang",
+          "mobile-development",
+          "flutter-plugin",
+          "awesome",
+          "material-design",
+          "android"
+        ]
+      }
+    ]
+  }
+}

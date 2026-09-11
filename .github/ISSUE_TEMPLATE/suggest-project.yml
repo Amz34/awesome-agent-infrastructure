@@ -1,0 +1,43 @@
+name: Suggest a project
+description: Propose a project for the awesome list
+title: "[suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Agent Frameworks & Orchestration
+        - Self-Hosted Agent Runtimes
+        - MCP & Tool Servers
+        - LLM Ops, Evals & Observability
+        - Local / On-Prem Inference
+        - RAG & Vector Search
+        - Free-Tier & Homelab Infrastructure
+        - Watchdogs, Reliability & Cost Control
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it belong here?
+      description: One or two sentences. What problem does it solve in an agent/LLM stack?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmations
+      options:
+        - label: The project is open source and not archived
+          required: true
+        - label: The project has real documentation
+          required: true
