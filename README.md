@@ -152,6 +152,8 @@ _Tests, evals, tracing and prompt tooling that keep quality measurable._
 | [pydantic/logfire](https://github.com/pydantic/logfire) | 4,474 | - | AI observability platform for production LLM and agent systems. | 2026-09-14 |
 | [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) | 4,402 | - | One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks | 2026-09-11 |
 
+- [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ![GitHub Repo stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. Built with Vue 3 + ECharts.
+
 ## Reliability & Cost Control
 
 _Watchdogs, alerting, uptime checks and budget guards for unattended workloads._
