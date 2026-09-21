@@ -1,0 +1,34 @@
+name: verify
+
+# Daily live verification of every entry: proves the "live-checked" claim with
+# a timestamped status file + auto-updating badge. Commits only on change.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify entries against live GitHub metadata
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 tools/verify_entries.py --manifest manifest.json --out status.json
+          python3 tools/emit_badge.py status.json badge.json
+      - name: Commit status when it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add status.json badge.json
+          if git diff --quiet --cached; then
+            echo "no change"
+          else
+            git commit -m "chore: live verification $(date -u +%Y-%m-%d)"
+            git push
+          fi

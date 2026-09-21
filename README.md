@@ -1,5 +1,11 @@
 # Awesome Agent Infrastructure
 
+[![live-checked](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Amz34/awesome-agent-infrastructure/main/badge.json)](https://awesome-agent-infra.pages.dev)
+[![verify](https://github.com/Amz34/awesome-agent-infrastructure/actions/workflows/verify.yml/badge.svg)](https://github.com/Amz34/awesome-agent-infrastructure/actions/workflows/verify.yml)
+
+**[Live dashboard](https://awesome-agent-infra.pages.dev)** - every entry re-checked daily against the GitHub API (existence, archive state, last push, licence). Status file: [`status.json`](status.json).
+
+
 **A live-checked index of building blocks for self-hosting AI agents and LLM workloads — runtimes, memory, retrieval, tool servers, evals and the reliability plumbing that keeps them up on small, cheap boxes.**
 
 ![entries](https://img.shields.io/badge/entries-135-blue) ![refresh](https://github.com/Amz34/awesome-agent-infrastructure/actions/workflows/refresh.yml/badge.svg) [![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
