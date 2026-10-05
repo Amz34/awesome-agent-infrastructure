@@ -233,6 +233,19 @@ _Curated lists, books and courses worth reading before you build._
 - Hard gate: stars >= 800, pushed >= 2025-04-01, not archived, not a fork, keyword-verified section assignment.
 - A project that goes stale or archived drops out automatically on the next run.
 
+## Why this index lives on GitHub
+
+![Branching history and distributed collaboration](docs/assets/github-benefits-collaboration.jpg)
+
+![Automated verification pipeline](docs/assets/github-benefits-cicd.jpg)
+
+The value of a living index is not the file itself, it is the pipeline around it:
+
+- **Continuous verification.** GitHub Actions re-checks every entry against the GitHub API on a daily schedule, so the list cannot silently rot.
+- **Versioned history.** Every verdict change is a reviewable commit — you can see exactly when a project was archived, renamed, or revived.
+- **Open collaboration.** Issues and pull requests are the contribution path, and the same automated gate that verifies entries also verifies suggestions.
+- **Zero-cost distribution.** Static hosting on GitHub Pages serves the [live dashboard](https://awesome-agent-infra.pages.dev) with no server to operate.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — or open a **Suggest a project** issue and the gate will be checked in the next refresh.
