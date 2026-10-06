@@ -41,6 +41,7 @@ _Runtimes and orchestration layers that plan, call tools and run multi-step work
 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10,558 | - | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies a | 2026-10-05 |
 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8,670 | - | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | 2026-10-05 |
 | [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | 7,955 | - | Build autonomous AI agents in Python. | 2026-06-18 |
+- [OpenAmer](https://github.com/openamer/openamer) - Windows-native agent runtime with in-process cognition tools, a single 10-subsystem heartbeat (replacing per-feature cron jobs), and peer-to-peer A2A work routing. Self-hostable and local-first.
 
 ## Agent Memory & Context Engineering
 
