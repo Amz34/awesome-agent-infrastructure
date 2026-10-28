@@ -250,7 +250,7 @@ The value of a living index is not the file itself, it is the pipeline around it
 - **Continuous verification.** GitHub Actions re-checks every entry against the GitHub API on a daily schedule, so the list cannot silently rot.
 - **Versioned history.** Every verdict change is a reviewable commit — you can see exactly when a project was archived, renamed, or revived.
 - **Open collaboration.** Issues and pull requests are the contribution path, and the same automated gate that verifies entries also verifies suggestions.
-- **Zero-cost distribution.** Static hosting on GitHub Pages serves the [live dashboard](https://awesome-agent-infra.pages.dev) with no server to operate.
+- **Zero-cost distribution.** Static hosting on GitHub Pages serves the [live dashboard](https://amz34.github.io/awesome-agent-infrastructure/) with no server to operate.
 
 ## Contributing
 

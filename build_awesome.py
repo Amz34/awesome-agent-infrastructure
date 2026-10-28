@@ -256,7 +256,7 @@ def main():
         "- **Open collaboration.** Issues and pull requests are the contribution path, and the "
         "same automated gate that verifies entries also verifies suggestions.",
         "- **Zero-cost distribution.** Static hosting on GitHub Pages serves the "
-        "[live dashboard](https://awesome-agent-infra.pages.dev) with no server to operate.",
+        "[live dashboard](https://amz34.github.io/awesome-agent-infrastructure/) with no server to operate.",
         "",
         "## Contributing",
         "",
