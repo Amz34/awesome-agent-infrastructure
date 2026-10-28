@@ -2,7 +2,12 @@
 
 **A live-checked index of building blocks for self-hosting AI agents and LLM workloads — runtimes, memory, retrieval, tool servers, evals and the reliability plumbing that keeps them up on small, cheap boxes.**
 
-![entries](https://img.shields.io/badge/entries-135-blue) ![refresh](https://github.com/Amz34/awesome-agent-infrastructure/actions/workflows/refresh.yml/badge.svg) [![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![Follow @Amz34](https://img.shields.io/github/followers/Amz34?label=Follow%20%40Amz34&style=social)](https://github.com/Amz34)
+[![Stars](https://img.shields.io/github/stars/Amz34/awesome-agent-infrastructure?style=social)](https://github.com/Amz34/awesome-agent-infrastructure)
+[![Forks](https://img.shields.io/github/forks/Amz34/awesome-agent-infrastructure?style=social)](https://github.com/Amz34/awesome-agent-infrastructure/network/members)
+![entries](https://img.shields.io/badge/entries-135-blue)
+[![refresh](https://github.com/Amz34/awesome-agent-infrastructure/actions/workflows/refresh.yml/badge.svg)](https://github.com/Amz34/awesome-agent-infrastructure/actions)
+[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 Every entry is pulled from live GitHub metadata and passed the same gate: active (pushed since `2025-04-01`), not archived, not a fork, **>= 800 stars**, a real description, and at least one keyword match proving it belongs in its section. Nothing is paid or hand-placed, so the list stays honest as projects die.
 
@@ -202,6 +207,7 @@ _Curated lists, books and courses worth reading before you build._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
+| [agulli/atlas-agents](https://github.com/agulli/atlas-agents) | 751 | - | Official code repository for "Hands-on AI Agents" by Antonio Gulli. Production-grade patterns (ReAct, CoT, Reflection, Plan-and-Execute, Multi-Agent Swarms). | 2026-07-17 |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 524,849 | - | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 2026-09-02 |
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 330,528 | - | A list of Free Software network services and web applications which can be hosted on your own servers | 2026-10-22 |
 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 330,340 | - | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-10-26 |
@@ -250,10 +256,18 @@ The value of a living index is not the file itself, it is the pipeline around it
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — or open a **Suggest a project** issue and the gate will be checked in the next refresh.
 
-## More from this author
+## 👤 Maintainer & Ecosystem
 
-- [selfhosted-agent-stack](https://github.com/Amz34/selfhosted-agent-stack) — the hardened 2 vCPU / 12 GB agent box these picks are tested on.
-- [ai-can-run](https://github.com/Amz34/ai-can-run) — a small, honest runner for AI tasks.
+Curated and maintained by **[Aamir Zameer (@Amz34)](https://github.com/Amz34)** — AI Automation Engineer & Systems Architect.
+
+👉 **[Follow @Amz34 on GitHub](https://github.com/Amz34)** for weekly live-tested agent architecture updates, free-tier deployments, and zero-token runtime patterns.
+
+### Production Suites from the Author
+- **[az-zero-token-data-engine](https://github.com/Amz34/az-zero-token-data-engine)** — Local deterministic Pandas/OpenPyXL tabular engine slashing 98% LLM token consumption on enterprise sheets.
+- **[antigravity-zero-token-suite](https://github.com/Amz34/antigravity-zero-token-suite)** — Production edge agent runtime on Google Antigravity + Gemini Flash offloading AST to local Linux POSIX compute.
+- **[selfhosted-agent-stack](https://github.com/Amz34/selfhosted-agent-stack)** — Hardened 24/7 crash-proof agent ops on free-tier cloud (watchdog daemons, zram, auto-reaping).
+- **[hermes-slack-agents](https://github.com/Amz34/hermes-slack-agents)** — Multi-tenant Slack AI agent gateway with isolated memory and zero per-seat SaaS costs.
+- **[ai-can-run](https://github.com/Amz34/ai-can-run)** — Client-side in-browser hardware detection and VRAM math engine ranking open models.
 
 ## License
 
