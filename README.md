@@ -157,6 +157,8 @@ _Tests, evals, tracing and prompt tooling that keep quality measurable._
 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4,991 | - | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company. | 2026-10-26 |
 | [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | 4,734 | - | Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. | 2026-10-26 |
 
+| [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) | ![GitHub Repo stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) | - | Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts. | 2026-09-15 |
+
 ## Reliability & Cost Control
 
 _Watchdogs, alerting, uptime checks and budget guards for unattended workloads._
