@@ -2,184 +2,184 @@
   "checked": 135,
   "entries": {
     "Arize-ai/phoenix": {
-      "forks": 1268,
+      "forks": 1273,
       "homepage": "https://arize.com/docs/phoenix",
       "license": "NOASSERTION",
-      "open_issues": 1025,
-      "pushed": "2026-11-06",
-      "stars": 12175,
+      "open_issues": 1024,
+      "pushed": "2026-11-07",
+      "stars": 12188,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "ChromeDevTools/chrome-devtools-mcp": {
-      "forks": 5230,
+      "forks": 5235,
       "homepage": "https://developer.chrome.com/docs/devtools/agents",
       "license": "Apache-2.0",
-      "open_issues": 84,
+      "open_issues": 87,
       "pushed": "2026-11-06",
-      "stars": 54870,
+      "stars": 54919,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "DeusData/codebase-memory-mcp": {
-      "forks": 3976,
+      "forks": 3987,
       "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
       "license": "MIT",
-      "open_issues": 482,
-      "pushed": "2026-11-04",
-      "stars": 48207,
+      "open_issues": 484,
+      "pushed": "2026-11-07",
+      "stars": 48278,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "EverMind-AI/EverOS": {
-      "forks": 963,
+      "forks": 965,
       "homepage": "https://evermind.ai/everos",
       "license": "Apache-2.0",
       "open_issues": 18,
-      "pushed": "2026-11-06",
-      "stars": 13839,
+      "pushed": "2026-11-07",
+      "stars": 13845,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Evil0ctal/Douyin_TikTok_Download_API": {
-      "forks": 2953,
+      "forks": 2957,
       "homepage": "https://douyin.wtf",
       "license": "Apache-2.0",
       "open_issues": 6,
       "pushed": "2026-11-02",
-      "stars": 21218,
+      "stars": 21245,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "FailproofAI/failproofai": {
-      "forks": 567,
+      "forks": 571,
       "homepage": "https://befailproof.ai",
       "license": "NOASSERTION",
       "open_issues": 27,
-      "pushed": "2026-11-06",
-      "stars": 8130,
+      "pushed": "2026-11-07",
+      "stars": 8204,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "FareedKhan-dev/kimi-k3-in-c": {
-      "forks": 1693,
+      "forks": 1728,
       "homepage": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
       "license": "Apache-2.0",
       "open_issues": 2,
       "pushed": "2026-10-02",
-      "stars": 10842,
+      "stars": 11099,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Fosowl/agenticSeek": {
-      "forks": 3106,
+      "forks": 3105,
       "homepage": "http://agenticseek.tech",
       "license": "GPL-3.0",
       "open_issues": 18,
       "pushed": "2026-10-22",
-      "stars": 27632,
+      "stars": 27633,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Giskard-AI/giskard-oss": {
-      "forks": 561,
+      "forks": 562,
       "homepage": "https://docs.giskard.ai",
       "license": "Apache-2.0",
       "open_issues": 23,
       "pushed": "2026-11-02",
-      "stars": 5944,
+      "stars": 5947,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "HKUDS/LightRAG": {
       "forks": 5765,
       "homepage": "https://arxiv.org/abs/2410.05779",
       "license": "MIT",
-      "open_issues": 246,
+      "open_issues": 247,
       "pushed": "2026-11-05",
-      "stars": 40573,
+      "stars": 40595,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "HKUDS/RAG-Anything": {
-      "forks": 2864,
+      "forks": 2865,
       "homepage": "http://arxiv.org/abs/2510.12323",
       "license": "MIT",
-      "open_issues": 96,
+      "open_issues": 97,
       "pushed": "2026-11-02",
-      "stars": 24448,
+      "stars": 24453,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "HKUDS/nanobot": {
       "forks": 8716,
       "homepage": "https://nanobot.wiki",
       "license": "MIT",
-      "open_issues": 216,
-      "pushed": "2026-11-06",
-      "stars": 49877,
+      "open_issues": 217,
+      "pushed": "2026-11-07",
+      "stars": 49901,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Hack-with-Github/Awesome-Hacking": {
-      "forks": 10960,
+      "forks": 10968,
       "homepage": null,
       "license": "CC0-1.0",
       "open_issues": 0,
       "pushed": "2026-10-27",
-      "stars": 124776,
+      "stars": 124865,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Helicone/helicone": {
-      "forks": 701,
+      "forks": 703,
       "homepage": "https://www.helicone.ai",
       "license": "Apache-2.0",
-      "open_issues": 67,
+      "open_issues": 68,
       "pushed": "2026-10-28",
-      "stars": 6271,
+      "stars": 6273,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "LearningCircuit/local-deep-research": {
       "forks": 903,
       "homepage": "",
       "license": "MIT",
-      "open_issues": 1042,
-      "pushed": "2026-11-06",
-      "stars": 9511,
+      "open_issues": 1064,
+      "pushed": "2026-11-07",
+      "stars": 9514,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "LibreChat-AI/LibreChat": {
-      "forks": 9632,
+      "forks": 9644,
       "homepage": "https://librechat.ai/",
       "license": "MIT",
-      "open_issues": 569,
-      "pushed": "2026-11-06",
-      "stars": 46801,
+      "open_issues": 570,
+      "pushed": "2026-11-07",
+      "stars": 46835,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "MemTensor/MemOS": {
-      "forks": 1110,
+      "forks": 1113,
       "homepage": "https://memos.openmem.net",
       "license": "Apache-2.0",
-      "open_issues": 64,
+      "open_issues": 62,
       "pushed": "2026-11-04",
-      "stars": 12300,
+      "stars": 12310,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "MemoriLabs/Memori": {
-      "forks": 3883,
+      "forks": 3898,
       "homepage": "https://memorilabs.ai",
       "license": "NOASSERTION",
       "open_issues": 26,
       "pushed": "2026-10-03",
-      "stars": 17441,
+      "stars": 17454,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Michael-A-Kuykendall/shimmy": {
       "forks": 587,
@@ -187,59 +187,59 @@
       "license": "Apache-2.0",
       "open_issues": 9,
       "pushed": "2026-11-01",
-      "stars": 6011,
+      "stars": 6012,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "MunGell/awesome-for-beginners": {
-      "forks": 8065,
+      "forks": 8068,
       "homepage": "",
       "license": "-",
       "open_issues": 21,
       "pushed": "2026-10-01",
-      "stars": 91119,
+      "stars": 91150,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "NevaMind-AI/memU": {
-      "forks": 1098,
+      "forks": 1097,
       "homepage": "https://memu.pro",
       "license": "NOASSERTION",
       "open_issues": 71,
       "pushed": "2026-11-05",
-      "stars": 14609,
+      "stars": 14604,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "NirDiamant/RAG_Techniques": {
-      "forks": 3698,
+      "forks": 3699,
       "homepage": "https://diamant-ai.com",
       "license": "NOASSERTION",
       "open_issues": 2,
       "pushed": "2026-11-02",
-      "stars": 30248,
+      "stars": 30262,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "PrefectHQ/fastmcp": {
-      "forks": 2559,
+      "forks": 2563,
       "homepage": "https://gofastmcp.com",
       "license": "Apache-2.0",
-      "open_issues": 280,
-      "pushed": "2026-11-06",
-      "stars": 28328,
+      "open_issues": 284,
+      "pushed": "2026-11-07",
+      "stars": 28334,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "QuantumNous/new-api": {
-      "forks": 12521,
+      "forks": 12539,
       "homepage": "https://www.newapi.ai",
       "license": "AGPL-3.0",
       "open_issues": 774,
-      "pushed": "2026-11-06",
-      "stars": 51496,
+      "pushed": "2026-11-07",
+      "stars": 51529,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "RyanCodrai/turbovec": {
       "forks": 1484,
@@ -247,69 +247,69 @@
       "license": "MIT",
       "open_issues": 23,
       "pushed": "2026-10-07",
-      "stars": 17467,
+      "stars": 17474,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Solido/awesome-flutter": {
-      "forks": 6947,
+      "forks": 6946,
       "homepage": "",
       "license": "-",
       "open_issues": 0,
       "pushed": "2026-09-03",
-      "stars": 61806,
+      "stars": 61817,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Tencent/WeKnora": {
-      "forks": 5022,
+      "forks": 5034,
       "homepage": "https://weknora.weixin.qq.com",
       "license": "NOASSERTION",
-      "open_issues": 488,
+      "open_issues": 498,
       "pushed": "2026-11-03",
-      "stars": 36671,
+      "stars": 36728,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "TencentCloud/TencentDB-Agent-Memory": {
-      "forks": 2982,
+      "forks": 2984,
       "homepage": "https://tencentcloud.github.io/TencentDB-Agent-Memory/",
       "license": "NOASSERTION",
       "open_issues": 304,
       "pushed": "2026-11-04",
-      "stars": 30570,
+      "stars": 30606,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Tiiny-AI/PowerInfer": {
-      "forks": 615,
+      "forks": 616,
       "homepage": "",
       "license": "MIT",
       "open_issues": 127,
       "pushed": "2026-05-11",
-      "stars": 9870,
+      "stars": 9872,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Tracer-Cloud/opensre": {
-      "forks": 1869,
+      "forks": 1870,
       "homepage": "https://discord.com/invite/opensre",
       "license": "Apache-2.0",
-      "open_issues": 46,
-      "pushed": "2026-11-06",
-      "stars": 12732,
+      "open_issues": 47,
+      "pushed": "2026-11-07",
+      "stars": 12745,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "TwiN/gatus": {
       "forks": 890,
       "homepage": "https://gatus.io",
       "license": "Apache-2.0",
       "open_issues": 271,
-      "pushed": "2026-11-04",
-      "stars": 12507,
+      "pushed": "2026-11-07",
+      "stars": 12515,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Upsonic/Upsonic": {
       "forks": 745,
@@ -317,79 +317,79 @@
       "license": "MIT",
       "open_issues": 20,
       "pushed": "2026-06-18",
-      "stars": 7966,
+      "stars": 7968,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "VectifyAI/PageIndex": {
-      "forks": 3453,
+      "forks": 3456,
       "homepage": "https://pageindex.ai",
       "license": "MIT",
-      "open_issues": 57,
-      "pushed": "2026-11-06",
-      "stars": 40116,
+      "open_issues": 58,
+      "pushed": "2026-11-07",
+      "stars": 40164,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "VoltAgent/awesome-design-md": {
-      "forks": 13939,
+      "forks": 13951,
       "homepage": "https://starterkit.getdesign.md/",
       "license": "MIT",
       "open_issues": 310,
       "pushed": "2026-10-28",
-      "stars": 125865,
+      "stars": 125979,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "Zackriya-Solutions/meetily": {
-      "forks": 3583,
+      "forks": 3585,
       "homepage": "https://meetily.ai",
       "license": "MIT",
       "open_issues": 217,
-      "pushed": "2026-11-06",
-      "stars": 32486,
+      "pushed": "2026-11-07",
+      "stars": 32507,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "activepieces/activepieces": {
       "forks": 4442,
       "homepage": "https://www.activepieces.com",
       "license": "NOASSERTION",
-      "open_issues": 480,
-      "pushed": "2026-11-06",
-      "stars": 25398,
+      "open_issues": 481,
+      "pushed": "2026-11-07",
+      "stars": 25411,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "aden-hive/hive": {
-      "forks": 5635,
+      "forks": 5633,
       "homepage": "",
       "license": "Apache-2.0",
-      "open_issues": 912,
+      "open_issues": 914,
       "pushed": "2026-11-02",
-      "stars": 11142,
+      "stars": 11144,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "ahujasid/mcp-for-blender": {
-      "forks": 3043,
+      "forks": 3047,
       "homepage": "https://www.mcp-for-blender.com/",
       "license": "MIT",
       "open_issues": 27,
       "pushed": "2026-11-04",
-      "stars": 33456,
+      "stars": 33510,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "ai-dynamo/dynamo": {
-      "forks": 1826,
+      "forks": 1827,
       "homepage": "https://docs.nvidia.com/dynamo/latest",
       "license": "NOASSERTION",
       "open_issues": 822,
-      "pushed": "2026-11-06",
-      "stars": 8450,
+      "pushed": "2026-11-07",
+      "stars": 8453,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "alibaba/Sentinel": {
       "forks": 8123,
@@ -397,9 +397,9 @@
       "license": "Apache-2.0",
       "open_issues": 717,
       "pushed": "2026-05-27",
-      "stars": 23144,
+      "stars": 23146,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "alibaba/sentinel-golang": {
       "forks": 457,
@@ -409,37 +409,37 @@
       "pushed": "2026-07-02",
       "stars": 2964,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "animir/node-rate-limiter-flexible": {
-      "forks": 201,
+      "forks": 202,
       "homepage": "",
       "license": "ISC",
       "open_issues": 6,
       "pushed": "2026-11-05",
-      "stars": 3600,
+      "stars": 3599,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "avelino/awesome-go": {
-      "forks": 13707,
+      "forks": 13713,
       "homepage": "https://awesome-go.com",
       "license": "MIT",
       "open_issues": 6,
       "pushed": "2026-11-06",
-      "stars": 192372,
+      "stars": 192542,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "awesome-selfhosted/awesome-selfhosted": {
-      "forks": 15743,
+      "forks": 15757,
       "homepage": "https://awesome-selfhosted.net/",
       "license": "NOASSERTION",
       "open_issues": 0,
-      "pushed": "2026-11-02",
-      "stars": 334376,
+      "pushed": "2026-11-07",
+      "stars": 334685,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "bentoml/BentoML": {
       "forks": 1058,
@@ -449,107 +449,107 @@
       "pushed": "2026-11-02",
       "stars": 8935,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "binhnguyennus/awesome-scalability": {
-      "forks": 7237,
+      "forks": 7236,
       "homepage": "",
       "license": "MIT",
       "open_issues": 0,
       "pushed": "2026-01-04",
-      "stars": 75511,
+      "stars": 75545,
       "verdict": "STALE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "bluewave-labs/Checkmate": {
-      "forks": 1239,
+      "forks": 1240,
       "homepage": "https://checkmate.so/",
       "license": "AGPL-3.0",
-      "open_issues": 65,
-      "pushed": "2026-11-05",
-      "stars": 11030,
+      "open_issues": 68,
+      "pushed": "2026-11-06",
+      "stars": 11032,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "budtmo/docker-android": {
       "forks": 1785,
       "homepage": "",
       "license": "NOASSERTION",
       "open_issues": 155,
-      "pushed": "2026-11-05",
-      "stars": 16096,
+      "pushed": "2026-11-07",
+      "stars": 16097,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "cactus-compute/cactus": {
       "forks": 1012,
       "homepage": "https://cactuscompute.com",
       "license": "Apache-2.0",
-      "open_issues": 5,
+      "open_issues": 6,
       "pushed": "2026-11-05",
-      "stars": 14500,
+      "stars": 14536,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "ccfos/nightingale": {
-      "forks": 1799,
+      "forks": 1798,
       "homepage": "https://n9e.io",
       "license": "Apache-2.0",
       "open_issues": 234,
       "pushed": "2026-11-06",
-      "stars": 13457,
+      "stars": 13462,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "cft0808/edict": {
-      "forks": 1769,
+      "forks": 1768,
       "homepage": "https://openclaw.ai",
       "license": "MIT",
       "open_issues": 10,
       "pushed": "2026-09-28",
-      "stars": 17051,
+      "stars": 17053,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "comet-ml/opik": {
-      "forks": 1929,
+      "forks": 1931,
       "homepage": "https://www.comet.com/docs/opik/",
       "license": "Apache-2.0",
       "open_issues": 68,
-      "pushed": "2026-11-06",
-      "stars": 23218,
+      "pushed": "2026-11-07",
+      "stars": 23241,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "confident-ai/deepeval": {
-      "forks": 2176,
+      "forks": 2177,
       "homepage": "https://deepeval.com",
       "license": "Apache-2.0",
       "open_issues": 330,
       "pushed": "2026-11-06",
-      "stars": 19331,
+      "stars": 19349,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "coollabsio/coolify": {
-      "forks": 5937,
+      "forks": 5942,
       "homepage": "https://coolify.io",
       "license": "Apache-2.0",
       "open_issues": 130,
       "pushed": "2026-11-06",
-      "stars": 65711,
+      "stars": 65746,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "crewAIInc/crewAI": {
-      "forks": 9073,
+      "forks": 9087,
       "homepage": "https://crewai.com",
       "license": "MIT",
-      "open_issues": 470,
-      "pushed": "2026-11-06",
-      "stars": 60564,
+      "open_issues": 478,
+      "pushed": "2026-11-07",
+      "stars": 60603,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "cstate/cstate": {
       "forks": 252,
@@ -559,57 +559,57 @@
       "pushed": "2026-10-17",
       "stars": 2905,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "czlonkowski/n8n-mcp": {
-      "forks": 3678,
+      "forks": 3682,
       "homepage": "https://www.n8n-mcp.com/",
       "license": "MIT",
-      "open_issues": 27,
-      "pushed": "2026-11-05",
-      "stars": 23220,
+      "open_issues": 19,
+      "pushed": "2026-11-07",
+      "stars": 23225,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "deepset-ai/haystack": {
-      "forks": 3402,
+      "forks": 3405,
       "homepage": "https://haystack.deepset.ai",
       "license": "Apache-2.0",
-      "open_issues": 95,
-      "pushed": "2026-11-06",
-      "stars": 26934,
+      "open_issues": 94,
+      "pushed": "2026-11-07",
+      "stars": 26942,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "dokku/dokku": {
       "forks": 2099,
       "homepage": "https://dokku.com",
       "license": "MIT",
-      "open_issues": 24,
-      "pushed": "2026-11-06",
+      "open_issues": 23,
+      "pushed": "2026-11-07",
       "stars": 32220,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "drumih/turbo-fieldfare": {
-      "forks": 471,
+      "forks": 473,
       "homepage": "",
       "license": "Apache-2.0",
       "open_issues": 22,
       "pushed": "2026-10-26",
-      "stars": 7284,
+      "stars": 7299,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "enaqx/awesome-react": {
-      "forks": 7698,
+      "forks": 7697,
       "homepage": "",
       "license": "-",
       "open_issues": 1,
       "pushed": "2026-09-04",
-      "stars": 75187,
+      "stars": 75203,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "eugeniughelbur/obsidian-second-brain": {
       "forks": 641,
@@ -617,9 +617,9 @@
       "license": "MIT",
       "open_issues": 9,
       "pushed": "2026-11-04",
-      "stars": 5190,
+      "stars": 5206,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "evidentlyai/evidently": {
       "forks": 966,
@@ -629,7 +629,7 @@
       "pushed": "2026-09-29",
       "stars": 8047,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "express-rate-limit/express-rate-limit": {
       "forks": 265,
@@ -639,17 +639,17 @@
       "pushed": "2026-11-02",
       "stars": 3316,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "f/prompts.chat": {
-      "forks": 22441,
+      "forks": 22459,
       "homepage": "https://prompts.chat",
       "license": "NOASSERTION",
-      "open_issues": 27,
-      "pushed": "2026-11-06",
-      "stars": 175996,
+      "open_issues": 28,
+      "pushed": "2026-11-07",
+      "stars": 176131,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "feder-cr/invisible_dots": {
       "forks": 7,
@@ -657,9 +657,9 @@
       "license": "MIT",
       "open_issues": 0,
       "pushed": "2026-11-04",
-      "stars": 42,
+      "stars": 44,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "fffaraz/awesome-cpp": {
       "forks": 8370,
@@ -667,159 +667,159 @@
       "license": "MIT",
       "open_issues": 212,
       "pushed": "2026-11-06",
-      "stars": 74268,
+      "stars": 74290,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "github/github-mcp-server": {
-      "forks": 5295,
+      "forks": 5300,
       "homepage": "",
       "license": "MIT",
-      "open_issues": 211,
+      "open_issues": 217,
       "pushed": "2026-11-06",
-      "stars": 34282,
+      "stars": 34299,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "glanceapp/glance": {
-      "forks": 1515,
+      "forks": 1514,
       "homepage": "",
       "license": "AGPL-3.0",
       "open_issues": 225,
       "pushed": "2026-11-06",
-      "stars": 38046,
+      "stars": 38067,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "go-gitea/gitea": {
-      "forks": 7364,
+      "forks": 7368,
       "homepage": "https://gitea.com",
       "license": "MIT",
-      "open_issues": 1935,
-      "pushed": "2026-11-06",
-      "stars": 58919,
+      "open_issues": 1934,
+      "pushed": "2026-11-07",
+      "stars": 58941,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "gpustack/gpustack": {
-      "forks": 723,
+      "forks": 725,
       "homepage": "https://gpustack.ai",
       "license": "Apache-2.0",
-      "open_issues": 667,
-      "pushed": "2026-11-06",
-      "stars": 5983,
+      "open_issues": 669,
+      "pushed": "2026-11-07",
+      "stars": 5987,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "headroomlabs-ai/headroom": {
-      "forks": 6175,
+      "forks": 6177,
       "homepage": "https://docs.headroomlabs.ai/docs",
       "license": "Apache-2.0",
-      "open_issues": 143,
-      "pushed": "2026-11-06",
-      "stars": 78994,
+      "open_issues": 130,
+      "pushed": "2026-11-07",
+      "stars": 79061,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "immich-app/immich": {
-      "forks": 7506,
+      "forks": 7514,
       "homepage": "https://immich.app",
       "license": "AGPL-3.0",
-      "open_issues": 489,
-      "pushed": "2026-11-06",
-      "stars": 118375,
+      "open_issues": 492,
+      "pushed": "2026-11-07",
+      "stars": 118442,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "infiniflow/ragflow": {
-      "forks": 11248,
+      "forks": 11252,
       "homepage": "https://ragflow.io",
       "license": "Apache-2.0",
-      "open_issues": 912,
+      "open_issues": 914,
       "pushed": "2026-11-06",
-      "stars": 93671,
+      "stars": 93718,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "jaywcjlove/awesome-mac": {
-      "forks": 10044,
+      "forks": 10077,
       "homepage": "https://git.io/macx",
       "license": "CC0-1.0",
-      "open_issues": 203,
-      "pushed": "2026-11-06",
-      "stars": 117843,
+      "open_issues": 205,
+      "pushed": "2026-11-07",
+      "stars": 117891,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "jeinlee1991/chinese-llm-benchmark": {
-      "forks": 262,
+      "forks": 261,
       "homepage": "https://nonelinear.com.cn",
       "license": "-",
       "open_issues": 17,
       "pushed": "2026-11-06",
       "stars": 6507,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "karakeep-app/karakeep": {
-      "forks": 1619,
+      "forks": 1622,
       "homepage": "https://karakeep.com",
       "license": "AGPL-3.0",
-      "open_issues": 605,
-      "pushed": "2026-11-04",
-      "stars": 30353,
+      "open_issues": 606,
+      "pushed": "2026-11-07",
+      "stars": 30375,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "keephq/keep": {
       "forks": 1545,
       "homepage": "https://keephq.dev",
       "license": "NOASSERTION",
       "open_issues": 462,
-      "pushed": "2026-11-04",
-      "stars": 12499,
+      "pushed": "2026-11-07",
+      "stars": 12500,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "khoj-ai/khoj": {
-      "forks": 2535,
+      "forks": 2537,
       "homepage": "https://khoj.dev",
       "license": "AGPL-3.0",
       "open_issues": 110,
       "pushed": "2026-08-02",
-      "stars": 38019,
+      "stars": 38036,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "kserve/kserve": {
-      "forks": 1779,
+      "forks": 1781,
       "homepage": "https://kserve.github.io/website/",
       "license": "Apache-2.0",
       "open_issues": 85,
-      "pushed": "2026-11-04",
-      "stars": 6195,
+      "pushed": "2026-11-06",
+      "stars": 6198,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "langfuse/langfuse": {
-      "forks": 4166,
+      "forks": 4171,
       "homepage": "https://langfuse.com",
       "license": "NOASSERTION",
-      "open_issues": 326,
-      "pushed": "2026-11-06",
-      "stars": 37097,
+      "open_issues": 327,
+      "pushed": "2026-11-07",
+      "stars": 37124,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "langwatch/langwatch": {
       "forks": 426,
       "homepage": "https://langwatch.ai",
       "license": "Apache-2.0",
-      "open_issues": 186,
-      "pushed": "2026-11-06",
-      "stars": 5015,
+      "open_issues": 190,
+      "pushed": "2026-11-07",
+      "stars": 5017,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "latitude-dev/latitude-llm": {
       "forks": 408,
@@ -827,139 +827,139 @@
       "license": "MIT",
       "open_issues": 69,
       "pushed": "2026-11-06",
-      "stars": 4744,
+      "stars": 4746,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "lemonade-sdk/lemonade": {
-      "forks": 555,
+      "forks": 557,
       "homepage": "https://lemonade-server.ai/",
       "license": "Apache-2.0",
-      "open_issues": 442,
-      "pushed": "2026-11-06",
-      "stars": 6127,
+      "open_issues": 445,
+      "pushed": "2026-11-07",
+      "stars": 6133,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "lissy93/dashy": {
-      "forks": 1967,
+      "forks": 1969,
       "homepage": "https://dashy.to",
       "license": "MIT",
-      "open_issues": 14,
+      "open_issues": 15,
       "pushed": "2026-11-06",
-      "stars": 26934,
+      "stars": 26937,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "louislam/uptime-kuma": {
-      "forks": 8668,
+      "forks": 8673,
       "homepage": "https://uptime.kuma.pet",
       "license": "MIT",
       "open_issues": 745,
-      "pushed": "2026-11-06",
-      "stars": 93308,
+      "pushed": "2026-11-07",
+      "stars": 93343,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "maziyarpanahi/openmed": {
       "forks": 733,
       "homepage": "https://openmed.life/",
       "license": "Apache-2.0",
-      "open_issues": 290,
-      "pushed": "2026-11-05",
-      "stars": 5783,
+      "open_issues": 259,
+      "pushed": "2026-11-07",
+      "stars": 5784,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "mem0ai/mem0": {
-      "forks": 8140,
+      "forks": 8151,
       "homepage": "https://mem0.ai",
       "license": "Apache-2.0",
-      "open_issues": 456,
+      "open_issues": 461,
       "pushed": "2026-11-06",
-      "stars": 68511,
+      "stars": 68552,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "memvid/memvid": {
-      "forks": 1470,
+      "forks": 1469,
       "homepage": "https://www.memvid.com",
       "license": "Apache-2.0",
       "open_issues": 15,
       "pushed": "2026-07-14",
-      "stars": 17382,
+      "stars": 17384,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "microsoft/agent-framework": {
-      "forks": 2584,
+      "forks": 2589,
       "homepage": "https://aka.ms/agent-framework",
       "license": "MIT",
-      "open_issues": 667,
+      "open_issues": 669,
       "pushed": "2026-11-06",
-      "stars": 14561,
+      "stars": 14572,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "microsoft/agent-governance-toolkit": {
-      "forks": 1125,
+      "forks": 1128,
       "homepage": null,
       "license": "MIT",
-      "open_issues": 52,
-      "pushed": "2026-11-05",
-      "stars": 6527,
+      "open_issues": 53,
+      "pushed": "2026-11-06",
+      "stars": 6534,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "microsoft/graphrag": {
-      "forks": 3871,
+      "forks": 3872,
       "homepage": "https://microsoft.github.io/graphrag/",
       "license": "MIT",
       "open_issues": 27,
       "pushed": "2026-11-02",
-      "stars": 36577,
+      "stars": 36588,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "microsoft/mcp-for-beginners": {
-      "forks": 5679,
+      "forks": 5682,
       "homepage": "",
       "license": "MIT",
       "open_issues": 4,
       "pushed": "2026-11-02",
-      "stars": 17617,
+      "stars": 17620,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "milvus-io/milvus": {
-      "forks": 4327,
+      "forks": 4326,
       "homepage": "https://milvus.io",
       "license": "Apache-2.0",
-      "open_issues": 1147,
-      "pushed": "2026-11-06",
-      "stars": 46610,
+      "open_issues": 1149,
+      "pushed": "2026-11-07",
+      "stars": 46612,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "modelcontextprotocol/python-sdk": {
-      "forks": 4103,
+      "forks": 4106,
       "homepage": "https://py.sdk.modelcontextprotocol.io/",
       "license": "MIT",
       "open_issues": 286,
       "pushed": "2026-11-05",
-      "stars": 24780,
+      "stars": 24789,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "nocodb/nocodb": {
       "forks": 5125,
       "homepage": "https://nocodb.com",
       "license": "NOASSERTION",
-      "open_issues": 368,
+      "open_issues": 369,
       "pushed": "2026-11-06",
-      "stars": 65434,
+      "stars": 65438,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "nomic-ai/gpt4all": {
       "forks": 8256,
@@ -967,99 +967,99 @@
       "license": "MIT",
       "open_issues": 733,
       "pushed": "2025-05-27",
-      "stars": 77336,
+      "stars": 77341,
       "verdict": "STALE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "omnigent-ai/omnigent": {
-      "forks": 1856,
+      "forks": 1866,
       "homepage": "https://omnigent.ai",
       "license": "Apache-2.0",
-      "open_issues": 902,
-      "pushed": "2026-11-06",
-      "stars": 11261,
+      "open_issues": 854,
+      "pushed": "2026-11-07",
+      "stars": 11272,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "open-multi-agent/open-multi-agent": {
-      "forks": 2439,
+      "forks": 2438,
       "homepage": "https://open-multi-agent.com/go/repo",
       "license": "MIT",
       "open_issues": 6,
-      "pushed": "2026-11-04",
-      "stars": 7044,
+      "pushed": "2026-11-06",
+      "stars": 7047,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "opensandbox-group/OpenSandbox": {
-      "forks": 1554,
+      "forks": 1558,
       "homepage": "https://open-sandbox.ai",
       "license": "Apache-2.0",
-      "open_issues": 90,
-      "pushed": "2026-11-06",
-      "stars": 16478,
+      "open_issues": 89,
+      "pushed": "2026-11-07",
+      "stars": 16493,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "openstatusHQ/openstatus": {
-      "forks": 807,
+      "forks": 808,
       "homepage": "https://openstatus.dev",
       "license": "AGPL-3.0",
-      "open_issues": 34,
-      "pushed": "2026-11-06",
-      "stars": 9247,
+      "open_issues": 33,
+      "pushed": "2026-11-07",
+      "stars": 9249,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "openvinotoolkit/openvino": {
-      "forks": 3532,
+      "forks": 3538,
       "homepage": "https://docs.openvino.ai",
       "license": "Apache-2.0",
-      "open_issues": 360,
+      "open_issues": 361,
       "pushed": "2026-11-06",
-      "stars": 11117,
+      "stars": 11127,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "oraios/serena": {
-      "forks": 2128,
+      "forks": 2130,
       "homepage": "https://oraios.github.io/serena",
       "license": "NOASSERTION",
-      "open_issues": 81,
+      "open_issues": 83,
       "pushed": "2026-10-28",
-      "stars": 31146,
+      "stars": 31176,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "oumi-ai/oumi": {
       "forks": 798,
       "homepage": "https://oumi.ai",
       "license": "Apache-2.0",
       "open_issues": 1,
-      "pushed": "2026-11-05",
-      "stars": 9426,
+      "pushed": "2026-11-06",
+      "stars": 9429,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "pascalorg/editor": {
-      "forks": 3151,
+      "forks": 3155,
       "homepage": "https://editor.pascal.app",
       "license": "MIT",
       "open_issues": 28,
       "pushed": "2026-11-06",
-      "stars": 25359,
+      "stars": 25377,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "patchy631/ai-engineering-hub": {
-      "forks": 6577,
+      "forks": 6611,
       "homepage": "https://join.dailydoseofds.com",
       "license": "MIT",
-      "open_issues": 25,
+      "open_issues": 26,
       "pushed": "2026-11-01",
-      "stars": 41210,
+      "stars": 41366,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "pathwaycom/serviette": {
       "forks": 1544,
@@ -1067,59 +1067,59 @@
       "license": "MIT",
       "open_issues": 5,
       "pushed": "2026-11-02",
-      "stars": 58724,
+      "stars": 58723,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "plastic-labs/honcho": {
       "forks": 973,
       "homepage": "https://honcho.dev/docs",
       "license": "AGPL-3.0",
-      "open_issues": 110,
+      "open_issues": 111,
       "pushed": "2026-11-06",
-      "stars": 7976,
+      "stars": 7997,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "prometheus/prometheus": {
-      "forks": 10979,
+      "forks": 10993,
       "homepage": "https://prometheus.io/",
       "license": "Apache-2.0",
-      "open_issues": 509,
-      "pushed": "2026-11-06",
-      "stars": 67010,
+      "open_issues": 513,
+      "pushed": "2026-11-07",
+      "stars": 67295,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "punkpeye/awesome-mcp-servers": {
-      "forks": 19338,
+      "forks": 19398,
       "homepage": "https://glama.ai/mcp/servers",
       "license": "MIT",
       "open_issues": 0,
-      "pushed": "2026-11-02",
-      "stars": 97370,
+      "pushed": "2026-11-06",
+      "stars": 97419,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "qdrant/qdrant": {
-      "forks": 2799,
+      "forks": 2804,
       "homepage": "https://qdrant.tech",
       "license": "Apache-2.0",
       "open_issues": 473,
-      "pushed": "2026-11-06",
-      "stars": 35446,
+      "pushed": "2026-11-07",
+      "stars": 35461,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "raga-ai-hub/RagaAI-Catalyst": {
-      "forks": 3572,
+      "forks": 3570,
       "homepage": "https://catalyst.raga.ai/",
       "license": "Apache-2.0",
       "open_issues": 17,
       "pushed": "2026-02-11",
-      "stars": 16186,
+      "stars": 16189,
       "verdict": "STALE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "robusta-dev/robusta": {
       "forks": 329,
@@ -1127,39 +1127,39 @@
       "license": "MIT",
       "open_issues": 153,
       "pushed": "2026-11-06",
-      "stars": 3134,
+      "stars": 3135,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "ruvnet/ruflo": {
-      "forks": 9537,
+      "forks": 9543,
       "homepage": "https://Cognitum.One",
       "license": "MIT",
-      "open_issues": 313,
-      "pushed": "2026-11-06",
-      "stars": 81046,
+      "open_issues": 317,
+      "pushed": "2026-11-07",
+      "stars": 81124,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "semantica-agi/semantica": {
       "forks": 1705,
       "homepage": "https://getsemantica.ai",
       "license": "MIT",
-      "open_issues": 76,
-      "pushed": "2026-11-06",
-      "stars": 14458,
+      "open_issues": 74,
+      "pushed": "2026-11-07",
+      "stars": 14463,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "sindresorhus/awesome": {
-      "forks": 38143,
+      "forks": 38199,
       "homepage": "",
       "license": "CC0-1.0",
       "open_issues": 16,
       "pushed": "2026-09-02",
-      "stars": 532157,
+      "stars": 532854,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "sindresorhus/awesome-nodejs": {
       "forks": 6255,
@@ -1167,59 +1167,59 @@
       "license": "CC0-1.0",
       "open_issues": 3,
       "pushed": "2026-09-02",
-      "stars": 67394,
+      "stars": 67408,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "siyuan-note/siyuan": {
-      "forks": 3099,
+      "forks": 3101,
       "homepage": "https://b3log.org/siyuan",
       "license": "AGPL-3.0",
-      "open_issues": 10,
-      "pushed": "2026-11-06",
-      "stars": 47102,
+      "open_issues": 8,
+      "pushed": "2026-11-07",
+      "stars": 47118,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "strands-agents/harness-sdk": {
-      "forks": 1478,
+      "forks": 1477,
       "homepage": "http://strandsagents.com/",
       "license": "Apache-2.0",
-      "open_issues": 666,
-      "pushed": "2026-11-06",
-      "stars": 9064,
+      "open_issues": 662,
+      "pushed": "2026-11-07",
+      "stars": 9070,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "supermemoryai/supermemory": {
-      "forks": 2770,
+      "forks": 2769,
       "homepage": "https://supermemory.ai/docs",
       "license": "MIT",
       "open_issues": 19,
       "pushed": "2026-11-06",
-      "stars": 31554,
+      "stars": 31559,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "thedotmack/claude-mem": {
-      "forks": 9873,
+      "forks": 9915,
       "homepage": "https://claude-mem.ai",
       "license": "Apache-2.0",
-      "open_issues": 52,
-      "pushed": "2026-11-06",
-      "stars": 113812,
+      "open_issues": 50,
+      "pushed": "2026-11-07",
+      "stars": 114238,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "topoteretes/cognee": {
-      "forks": 3471,
+      "forks": 3477,
       "homepage": "https://www.cognee.ai",
       "license": "Apache-2.0",
-      "open_issues": 781,
-      "pushed": "2026-11-06",
-      "stars": 33112,
+      "open_issues": 778,
+      "pushed": "2026-11-07",
+      "stars": 33122,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "traceloop/openllmetry": {
       "forks": 1187,
@@ -1227,109 +1227,109 @@
       "license": "Apache-2.0",
       "open_issues": 167,
       "pushed": "2026-11-05",
-      "stars": 7523,
+      "stars": 7525,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "usememos/memos": {
-      "forks": 4938,
+      "forks": 4940,
       "homepage": "https://usememos.com",
       "license": "MIT",
-      "open_issues": 26,
+      "open_issues": 24,
       "pushed": "2026-11-06",
-      "stars": 64311,
+      "stars": 64335,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "vibrantlabsai/ragas": {
-      "forks": 1802,
+      "forks": 1804,
       "homepage": "https://docs.ragas.io",
       "license": "Apache-2.0",
-      "open_issues": 388,
+      "open_issues": 391,
       "pushed": "2026-02-24",
-      "stars": 16249,
+      "stars": 16255,
       "verdict": "STALE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "vinta/awesome-python": {
-      "forks": 29055,
+      "forks": 29061,
       "homepage": "https://awesome-python.com/",
       "license": "NOASSERTION",
       "open_issues": 0,
       "pushed": "2026-11-06",
-      "stars": 332912,
+      "stars": 333124,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "volcengine/MineContext": {
-      "forks": 414,
+      "forks": 413,
       "homepage": "",
       "license": "Apache-2.0",
       "open_issues": 109,
       "pushed": "2026-05-07",
-      "stars": 5543,
+      "stars": 5544,
       "verdict": "STALE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "volcengine/OpenViking": {
-      "forks": 3407,
+      "forks": 3410,
       "homepage": "https://openviking.ai",
       "license": "AGPL-3.0",
-      "open_issues": 430,
-      "pushed": "2026-11-06",
-      "stars": 41690,
+      "open_issues": 434,
+      "pushed": "2026-11-07",
+      "stars": 41737,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "vxcontrol/pentagi": {
-      "forks": 5235,
+      "forks": 5246,
       "homepage": "https://pentagi.com",
       "license": "MIT",
       "open_issues": 30,
       "pushed": "2026-10-22",
-      "stars": 33501,
+      "stars": 33586,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "weaviate/weaviate": {
-      "forks": 1434,
+      "forks": 1435,
       "homepage": "https://weaviate.io/developers/weaviate/",
       "license": "NOASSERTION",
-      "open_issues": 505,
-      "pushed": "2026-11-06",
-      "stars": 16940,
+      "open_issues": 506,
+      "pushed": "2026-11-07",
+      "stars": 16941,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "xerj-org/xerj": {
-      "forks": 1408,
+      "forks": 1359,
       "homepage": "https://xerj.org",
       "license": "Apache-2.0",
-      "open_issues": 75,
-      "pushed": "2026-11-06",
-      "stars": 19107,
+      "open_issues": 82,
+      "pushed": "2026-11-07",
+      "stars": 18532,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "xorbitsai/inference": {
-      "forks": 894,
+      "forks": 898,
       "homepage": "https://inference.readthedocs.io",
       "license": "Apache-2.0",
       "open_issues": 6,
-      "pushed": "2026-11-06",
-      "stars": 9645,
+      "pushed": "2026-11-07",
+      "stars": 9647,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "xpzouying/xiaohongshu-mcp": {
-      "forks": 2491,
+      "forks": 2494,
       "homepage": "https://www.haha.ai/xiaohongshu-mcp",
       "license": "Apache-2.0",
       "open_issues": 58,
       "pushed": "2026-11-06",
-      "stars": 16963,
+      "stars": 16985,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "zabbix/zabbix": {
       "forks": 1281,
@@ -1337,22 +1337,22 @@
       "license": "AGPL-3.0",
       "open_issues": 0,
       "pushed": "2026-11-06",
-      "stars": 6544,
+      "stars": 6549,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     },
     "zhayujie/CowAgent": {
       "forks": 10419,
       "homepage": "https://cowagent.ai",
       "license": "MIT",
       "open_issues": 19,
-      "pushed": "2026-11-06",
-      "stars": 47817,
+      "pushed": "2026-11-07",
+      "stars": 47828,
       "verdict": "LIVE",
-      "verified_on": "2026-11-06"
+      "verified_on": "2026-11-07"
     }
   },
-  "generated": "2026-11-06T14:17:43+00:00",
+  "generated": "2026-11-07T13:03:12+00:00",
   "stale_days": 180,
   "summary": {
     "LIVE": 130,
