@@ -26,21 +26,21 @@ _Runtimes and orchestration layers that plan, call tools and run multi-step work
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80,588 | - | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning  | 2026-11-02 |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60,416 | - | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-11-02 |
-| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 47,751 | - | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, | 2026-11-02 |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 32,998 | - | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | 2026-10-22 |
-| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27,600 | - | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. | 2026-10-22 |
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 25,335 | - | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents | 2026-11-02 |
-| [cft0808/edict](https://github.com/cft0808/edict) | 17,044 | - | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | 2026-09-28 |
-| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 16,389 | - | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-11-02 |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 14,493 | - | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | 2026-11-02 |
-| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 11,167 | - | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies a | 2026-11-02 |
-| [aden-hive/hive](https://github.com/aden-hive/hive) | 11,132 | - | Multi-Agent Harness for Production AI | 2026-11-02 |
-| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 9,027 | - | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | 2026-11-02 |
-| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | 7,969 | - | Build autonomous AI agents in Python. | 2026-06-18 |
-| [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 7,042 | - | Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it. | 2026-10-29 |
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6,506 | - | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10 | 2026-10-30 |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 81,320 | - | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning  | 2026-11-09 |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60,683 | - | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-11-09 |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 49,605 | - | the runtime your coding agents live on | 2026-11-07 |
+| [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 47,850 | - | Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, | 2026-11-09 |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 33,759 | - | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | 2026-10-22 |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 27,645 | - | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. | 2026-10-22 |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 25,441 | - | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents | 2026-11-09 |
+| [cft0808/edict](https://github.com/cft0808/edict) | 17,047 | - | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | 2026-09-28 |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 16,745 | - | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-11-09 |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 14,602 | - | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | 2026-11-09 |
+| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 11,296 | - | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies a | 2026-11-09 |
+| [aden-hive/hive](https://github.com/aden-hive/hive) | 11,147 | - | Multi-Agent Harness for Production AI | 2026-11-08 |
+| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 9,084 | - | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. | 2026-11-09 |
+| [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) | 7,968 | - | Build autonomous AI agents in Python. | 2026-06-18 |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 7,656 | - | A framework for building agentic apps | 2026-11-09 |
 
 ## Agent Memory & Context Engineering
 
@@ -48,21 +48,21 @@ _Persistent memory, context budgeting and state stores for long-running agents._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110,167 | - | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi | 2026-11-02 |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68,274 | - | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | 2026-10-30 |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41,357 | - | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | 2026-11-02 |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 33,002 | - | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | 2026-11-02 |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 31,503 | - | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | 2026-11-02 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 30,349 | - | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph)  | 2026-10-28 |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26,909 | - | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over r | 2026-11-02 |
-| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | 17,293 | - | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for e | 2026-10-03 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,593 | - | Personal memory across agents | 2026-10-31 |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 14,392 | - | Graph-Native Infrastructure for Context and Accountable AI Systems | 2026-11-02 |
-| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13,772 | - | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. | 2026-11-02 |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12,225 | - | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | 2026-10-29 |
-| [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 7,888 | - | Memory library for building stateful agents | 2026-11-01 |
-| [volcengine/MineContext](https://github.com/volcengine/MineContext) | 5,541 | - | MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse） | 2026-05-07 |
-| [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 5,102 | - | Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Gro | 2026-11-01 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 115,158 | - | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessi | 2026-11-09 |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 68,685 | - | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | 2026-11-06 |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 41,850 | - | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | 2026-11-09 |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 33,165 | - | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | 2026-11-08 |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 31,568 | - | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | 2026-11-07 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 30,674 | - | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph)  | 2026-11-09 |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26,948 | - | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over r | 2026-11-09 |
+| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | 17,485 | - | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for e | 2026-10-03 |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 14,608 | - | Personal memory across agents | 2026-11-09 |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 14,491 | - | Graph-Native Infrastructure for Context and Accountable AI Systems | 2026-11-09 |
+| [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | 13,860 | - | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. | 2026-11-09 |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 12,333 | - | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | 2026-11-07 |
+| [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) | 11,158 | - | One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off. | 2026-11-09 |
+| [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 8,029 | - | Memory library for building stateful agents | 2026-11-06 |
+| [volcengine/MineContext](https://github.com/volcengine/MineContext) | 5,545 | - | MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse） | 2026-05-07 |
 
 ## MCP & Tool Servers
 
@@ -70,21 +70,21 @@ _Model Context Protocol servers, clients and tool bridges._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 54,645 | - | Chrome DevTools for coding agents | 2026-11-02 |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 47,986 | - | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware tes | 2026-11-02 |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 46,635 | - | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI | 2026-11-02 |
-| [github/github-mcp-server](https://github.com/github/github-mcp-server) | 34,157 | - | GitHub's official MCP Server | 2026-11-02 |
-| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 33,049 | - | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. | 2026-10-29 |
-| [oraios/serena](https://github.com/oraios/serena) | 31,012 | - | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent | 2026-10-28 |
-| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,270 | - | 🚀 The fast, Pythonic way to build MCP servers and clients. | 2026-11-02 |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 25,273 | - | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. | 2026-10-30 |
-| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24,736 | - | The official Python SDK for Model Context Protocol servers and clients | 2026-11-01 |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 23,193 | - | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | 2026-11-02 |
-| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 21,106 | - | 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。/ Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MC | 2026-11-02 |
-| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 18,746 | - | AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without  | 2026-11-02 |
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 17,582 | - | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and  | 2026-11-02 |
-| [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 16,741 | - | MCP for xiaohongshu.com | 2026-11-02 |
-| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 16,082 | - | Android in docker solution with noVNC supported, video recording, mcp server and AI-agent | 2026-11-02 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 55,008 | - | Chrome DevTools for coding agents | 2026-11-09 |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 48,390 | - | Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware tes | 2026-11-07 |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 46,889 | - | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI | 2026-11-09 |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | 34,345 | - | GitHub's official MCP Server | 2026-11-09 |
+| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 33,732 | - | Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. | 2026-11-04 |
+| [oraios/serena](https://github.com/oraios/serena) | 31,227 | - | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent | 2026-10-28 |
+| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,358 | - | 🚀 The fast, Pythonic way to build MCP servers and clients. | 2026-11-09 |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24,809 | - | The official Python SDK for Model Context Protocol servers and clients | 2026-11-05 |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 23,230 | - | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | 2026-11-09 |
+| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 21,306 | - | 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。/ Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MC | 2026-11-08 |
+| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 18,637 | - | AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without  | 2026-11-09 |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 17,630 | - | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and  | 2026-11-02 |
+| [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 17,037 | - | MCP for xiaohongshu.com | 2026-11-09 |
+| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 16,108 | - | Android in docker solution with noVNC supported, video recording, mcp server and AI-agent | 2026-11-09 |
+| [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 15,825 | - | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. | 2026-10-30 |
 
 ## RAG & Vector Search
 
@@ -92,21 +92,21 @@ _Retrieval stacks, embedding stores and document search engines._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 93,349 | - | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure. | 2026-11-02 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 78,618 | - | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP se | 2026-11-02 |
-| [pathwaycom/serviette](https://github.com/pathwaycom/serviette) | 58,735 | - | A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway. | 2026-10-16 |
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46,558 | - | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | 2026-11-02 |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 40,809 | - | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | 2026-11-01 |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 40,485 | - | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | 2026-10-29 |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39,954 | - | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-10-29 |
-| [microsoft/graphrag](https://github.com/microsoft/graphrag) | 36,529 | - | A modular graph-based Retrieval-Augmented Generation (RAG) system | 2026-11-02 |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36,244 | - | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-11-02 |
-| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35,381 | - | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | 2026-11-02 |
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 30,187 | - | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | 2026-11-02 |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 24,390 | - | "RAG-Anything: All-in-One RAG Framework" | 2026-11-02 |
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 17,453 | - | A vector index built on TurboQuant, written in Rust with Python bindings | 2026-10-07 |
-| [memvid/memvid](https://github.com/memvid/memvid) | 17,349 | - | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | 2026-07-14 |
-| [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16,934 | - | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance an | 2026-11-02 |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 93,836 | - | RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure. | 2026-11-09 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 79,196 | - | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP se | 2026-11-09 |
+| [pathwaycom/serviette](https://github.com/pathwaycom/serviette) | 58,721 | - | A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway. | 2026-11-02 |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46,614 | - | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | 2026-11-09 |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 41,548 | - | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | 2026-11-01 |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 40,621 | - | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | 2026-11-09 |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 40,278 | - | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-11-09 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36,961 | - | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-11-09 |
+| [microsoft/graphrag](https://github.com/microsoft/graphrag) | 36,603 | - | A modular graph-based Retrieval-Augmented Generation (RAG) system | 2026-11-09 |
+| [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35,478 | - | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | 2026-11-09 |
+| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 30,278 | - | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | 2026-11-02 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 24,471 | - | "RAG-Anything: All-in-One RAG Framework" | 2026-11-02 |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 17,483 | - | A vector index built on TurboQuant, written in Rust with Python bindings | 2026-10-07 |
+| [memvid/memvid](https://github.com/memvid/memvid) | 17,390 | - | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | 2026-07-14 |
+| [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16,944 | - | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance an | 2026-11-09 |
 
 ## Local & On-Prem Inference
 
@@ -114,21 +114,21 @@ _Run models on your own box: quantised runtimes and inference servers._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,346 | - | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27 |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 11,105 | - | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | 2026-11-02 |
-| [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 9,862 | - | High-speed Large Language Model Serving for Local Deployment | 2026-05-11 |
-| [xorbitsai/inference](https://github.com/xorbitsai/inference) | 9,636 | - | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unifi | 2026-11-02 |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9,479 | - | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Every | 2026-11-02 |
-| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 9,277 | - | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | 2026-10-02 |
-| [bentoml/BentoML](https://github.com/bentoml/BentoML) | 8,932 | - | The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! | 2026-10-29 |
-| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8,422 | - | A Datacenter Scale Distributed Inference Serving Framework | 2026-11-02 |
-| [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 7,107 | - | Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook | 2026-10-26 |
-| [kserve/kserve](https://github.com/kserve/kserve) | 6,182 | - | Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes | 2026-10-31 |
-| [cactus-compute/cactus](https://github.com/cactus-compute/cactus) | 6,170 | - | Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. | 2026-09-26 |
-| [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 6,039 | - | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk | 2026-11-02 |
-| [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | 6,007 | - | ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. | 2026-11-01 |
-| [gpustack/gpustack](https://github.com/gpustack/gpustack) | 5,947 | - | A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. | 2026-11-02 |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 5,765 | - | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and  | 2026-11-02 |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,351 | - | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 2025-05-27 |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 11,372 | - | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | 2026-10-02 |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 11,136 | - | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference | 2026-11-09 |
+| [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 9,875 | - | High-speed Large Language Model Serving for Local Deployment | 2026-05-11 |
+| [xorbitsai/inference](https://github.com/xorbitsai/inference) | 9,649 | - | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unifi | 2026-11-09 |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9,552 | - | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Every | 2026-11-09 |
+| [bentoml/BentoML](https://github.com/bentoml/BentoML) | 8,935 | - | The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! | 2026-11-02 |
+| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8,461 | - | A Datacenter Scale Distributed Inference Serving Framework | 2026-11-09 |
+| [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | 7,323 | - | Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook | 2026-10-26 |
+| [kserve/kserve](https://github.com/kserve/kserve) | 6,204 | - | Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes | 2026-11-06 |
+| [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 6,157 | - | Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk | 2026-11-09 |
+| [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | 6,015 | - | ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. | 2026-11-09 |
+| [gpustack/gpustack](https://github.com/gpustack/gpustack) | 6,004 | - | A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances. | 2026-11-09 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 5,797 | - | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and  | 2026-11-09 |
+| [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) | 4,340 | - | Optimizing inference proxy for LLMs | 2026-11-02 |
 
 ## LLM Ops: Evals & Observability
 
@@ -136,21 +136,21 @@ _Tests, evals, tracing and prompt tooling that keep quality measurable._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36,874 | - | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. | 2026-11-02 |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | 23,117 | - | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-11-02 |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 19,244 | - | The LLM Evaluation Framework | 2026-11-02 |
-| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | 16,215 | - | Supercharge Your LLM Application Evaluations 🚀 | 2026-02-24 |
-| [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,186 | - | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboa | 2026-02-11 |
-| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12,100 | - | AI Observability & Evaluation | 2026-11-01 |
-| [oumi-ai/oumi](https://github.com/oumi-ai/oumi) | 9,422 | - | Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM! | 2026-10-30 |
-| [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | 8,030 | - | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. | 2026-09-29 |
-| [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 7,518 | - | Open-source observability for your GenAI or LLM application, based on OpenTelemetry | 2026-10-19 |
-| [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) | 7,354 | - | Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. | 2026-11-02 |
-| [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6,497 | - | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及st | 2026-10-27 |
-| [Helicone/helicone](https://github.com/Helicone/helicone) | 6,251 | - | 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 | 2026-10-28 |
-| [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5,940 | - | 🐢 Open-Source Evaluation & Testing library for LLM Agents | 2026-11-02 |
-| [langwatch/langwatch](https://github.com/langwatch/langwatch) | 5,003 | - | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company. | 2026-11-02 |
-| [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | 4,742 | - | Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. | 2026-11-02 |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,185 | - | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. | 2026-11-09 |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | 23,278 | - | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-11-09 |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 19,381 | - | The LLM Evaluation Framework | 2026-11-07 |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | 16,265 | - | Supercharge Your LLM Application Evaluations 🚀 | 2026-02-24 |
+| [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst) | 16,192 | - | Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboa | 2026-02-11 |
+| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12,211 | - | AI Observability & Evaluation | 2026-11-09 |
+| [oumi-ai/oumi](https://github.com/oumi-ai/oumi) | 9,429 | - | Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM! | 2026-11-06 |
+| [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) | 8,269 | - | Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. | 2026-11-07 |
+| [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | 8,051 | - | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. | 2026-09-29 |
+| [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 7,528 | - | Open-source observability for your GenAI or LLM application, based on OpenTelemetry | 2026-11-05 |
+| [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6,508 | - | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及st | 2026-11-08 |
+| [Helicone/helicone](https://github.com/Helicone/helicone) | 6,274 | - | 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 | 2026-10-28 |
+| [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5,946 | - | 🐢 Open-Source Evaluation & Testing library for LLM Agents | 2026-11-09 |
+| [langwatch/langwatch](https://github.com/langwatch/langwatch) | 5,019 | - | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company. | 2026-11-09 |
+| [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | 4,747 | - | Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. | 2026-11-09 |
 
 ## Reliability & Cost Control
 
@@ -158,21 +158,21 @@ _Watchdogs, alerting, uptime checks and budget guards for unattended workloads._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93,176 | - | A fancy self-hosted monitoring tool | 2026-11-02 |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66,900 | - | The Prometheus monitoring system and time series database. | 2026-11-02 |
-| [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | 23,150 | - | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2026-05-27 |
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,428 | - | Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server. | 2026-11-01 |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 12,657 | - | The open-source agent for CI/CD reliability. | 2026-11-02 |
-| [TwiN/gatus](https://github.com/TwiN/gatus) | 12,473 | - | Automated developer-oriented status page with alerting and incident support | 2026-10-29 |
-| [keephq/keep](https://github.com/keephq/keep) | 12,472 | - | The open-source AIOps and alert management platform | 2026-11-01 |
-| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 11,021 | - | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't | 2026-10-31 |
-| [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) | 9,242 | - | Open-source status page, incident response and uptime monitoring | 2026-11-01 |
-| [zabbix/zabbix](https://github.com/zabbix/zabbix) | 6,528 | - | Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud. | 2026-10-30 |
-| [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) | 3,599 | - | Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale. | 2026-11-02 |
-| [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) | 3,314 | - | Basic rate-limiting middleware for the Express web server | 2026-10-29 |
-| [robusta-dev/robusta](https://github.com/robusta-dev/robusta) | 3,128 | - | Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation | 2026-11-02 |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 93,401 | - | A fancy self-hosted monitoring tool | 2026-11-09 |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67,579 | - | The Prometheus monitoring system and time series database. | 2026-11-09 |
+| [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | 23,145 | - | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2026-05-27 |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 13,468 | - | Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server. | 2026-11-06 |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 12,784 | - | The open-source agent for CI/CD reliability. | 2026-11-09 |
+| [TwiN/gatus](https://github.com/TwiN/gatus) | 12,665 | - | Automated developer-oriented status page with alerting and incident support | 2026-11-09 |
+| [keephq/keep](https://github.com/keephq/keep) | 12,502 | - | The open-source AIOps and alert management platform | 2026-11-09 |
+| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 11,036 | - | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't | 2026-11-09 |
+| [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) | 9,254 | - | Open-source status page, incident response and uptime monitoring | 2026-11-09 |
+| [zabbix/zabbix](https://github.com/zabbix/zabbix) | 6,553 | - | Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud. | 2026-11-06 |
+| [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) | 3,600 | - | Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale. | 2026-11-08 |
+| [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) | 3,316 | - | Basic rate-limiting middleware for the Express web server | 2026-11-02 |
+| [robusta-dev/robusta](https://github.com/robusta-dev/robusta) | 3,135 | - | Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation | 2026-11-09 |
 | [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) | 2,964 | - | Sentinel Go enables reliability and resiliency for Go microservices | 2026-07-02 |
-| [cstate/cstate](https://github.com/cstate/cstate) | 2,904 | - | 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges | 2026-10-17 |
+| [cstate/cstate](https://github.com/cstate/cstate) | 2,905 | - | 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges | 2026-10-17 |
 
 ## Free-Tier & Low-Cost Infrastructure
 
@@ -180,21 +180,21 @@ _Lightweight tooling that fits small 2 vCPU / 12 GB always-free boxes._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [immich-app/immich](https://github.com/immich-app/immich) | 117,956 | - | High performance self-hosted photo and video management solution. | 2026-11-02 |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | 65,525 | - | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services  | 2026-11-02 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65,404 | - | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 2026-11-02 |
-| [usememos/memos](https://github.com/usememos/memos) | 64,229 | - | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private  | 2026-11-02 |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 58,824 | - | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | 2026-11-02 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 51,193 | - | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting. | 2026-11-02 |
-| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 49,755 | - | Your lightweight open-source personal agent. | 2026-11-02 |
-| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47,037 | - | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | 2026-11-02 |
-| [glanceapp/glance](https://github.com/glanceapp/glance) | 37,970 | - | A self-hosted dashboard that puts all your feeds in one place | 2026-10-20 |
-| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 37,941 | - | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your pers | 2026-08-02 |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 32,378 | - | Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, b | 2026-11-01 |
-| [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | 32,351 | - | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. | 2026-10-31 |
-| [dokku/dokku](https://github.com/dokku/dokku) | 32,220 | - | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2026-11-02 |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30,243 | - | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | 2026-11-02 |
-| [lissy93/dashy](https://github.com/lissy93/dashy) | 26,893 | - | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | 2026-10-31 |
+| [immich-app/immich](https://github.com/immich-app/immich) | 118,600 | - | High performance self-hosted photo and video management solution. | 2026-11-09 |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | 65,821 | - | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services  | 2026-11-09 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65,455 | - | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative | 2026-11-09 |
+| [usememos/memos](https://github.com/usememos/memos) | 64,361 | - | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private  | 2026-11-09 |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | 58,979 | - | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | 2026-11-09 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 51,611 | - | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting. | 2026-11-09 |
+| [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 49,961 | - | Your lightweight open-source personal agent. | 2026-11-09 |
+| [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | 47,143 | - | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 | 2026-11-09 |
+| [glanceapp/glance](https://github.com/glanceapp/glance) | 38,104 | - | A self-hosted dashboard that puts all your feeds in one place | 2026-11-07 |
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 38,084 | - | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your pers | 2026-08-02 |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 32,549 | - | Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source al | 2026-11-09 |
+| [dokku/dokku](https://github.com/dokku/dokku) | 32,220 | - | A docker-powered PaaS that helps you build and manage the lifecycle of applications | 2026-11-09 |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 30,420 | - | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | 2026-11-09 |
+| [henrygd/beszel](https://github.com/henrygd/beszel) | 27,026 | - | Lightweight server monitoring with historical data, docker stats, and alerts. | 2026-11-08 |
+| [lissy93/dashy](https://github.com/lissy93/dashy) | 26,954 | - | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! | 2026-11-07 |
 
 ## Learning & Reference
 
@@ -202,21 +202,21 @@ _Curated lists, books and courses worth reading before you build._
 
 | Project | Stars | License | What it does | Last push |
 |---|---:|---|---|---|
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 529,205 | - | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 2026-09-02 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 332,958 | - | A list of Free Software network services and web applications which can be hosted on your own servers | 2026-11-02 |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 331,910 | - | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-11-02 |
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 191,636 | - | A curated list of awesome Go frameworks, libraries and software | 2026-11-02 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 175,586 | - | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-11-02 |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 125,173 | - | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 2026-10-28 |
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 124,386 | - | A collection of various awesome lists for hackers, pentesters and security researchers | 2026-10-27 |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 117,589 | - |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-11-02 |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 97,190 | - | A collection of MCP servers. | 2026-11-02 |
-| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | 90,984 | - | A list of awesome beginners-friendly projects. | 2026-10-01 |
-| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 75,292 | - | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 2026-01-04 |
-| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | 75,135 | - | A collection of awesome things regarding React ecosystem | 2026-09-04 |
-| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | 74,166 | - | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | 2026-10-31 |
-| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 67,341 | - | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | 2026-09-02 |
-| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | 61,757 | - | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-09-03 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 534,151 | - | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | 2026-09-02 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 335,304 | - | A list of Free Software network services and web applications which can be hosted on your own servers | 2026-11-07 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | 333,535 | - | The definitive list that answers "I want to do X in Python, which tool should I use?" | 2026-11-08 |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 192,910 | - | A curated list of awesome Go frameworks, libraries and software | 2026-11-06 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 176,657 | - | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 2026-11-09 |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 126,240 | - | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | 2026-10-28 |
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 125,055 | - | A collection of various awesome lists for hackers, pentesters and security researchers | 2026-10-27 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 118,110 | - |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | 2026-11-09 |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 97,513 | - | A collection of MCP servers. | 2026-11-06 |
+| [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) | 91,207 | - | A list of awesome beginners-friendly projects. | 2026-10-01 |
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 75,590 | - | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | 2026-01-04 |
+| [enaqx/awesome-react](https://github.com/enaqx/awesome-react) | 75,223 | - | A collection of awesome things regarding React ecosystem | 2026-09-04 |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | 74,332 | - | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. | 2026-11-06 |
+| [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | 67,422 | - | :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY] | 2026-09-02 |
+| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | 61,840 | - | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. | 2026-09-03 |
 
 ---
 
